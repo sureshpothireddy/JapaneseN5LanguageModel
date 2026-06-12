@@ -12,7 +12,7 @@ source.exclude_patterns = sync_shared.py
 # Pure-Python / recipe-supported dependencies only — no compiler surprises.
 # (rapidfuzz/pykakasi are intentionally omitted; the app's scorer and
 # romaji helpers degrade gracefully to stdlib fallbacks without them.)
-requirements = python3,kivy==2.3.0,sqlalchemy,gtts,gtts-token,requests,urllib3,charset-normalizer,idna,certifi,click,plyer,jaconv
+requirements = python3,kivy,sqlalchemy,gtts,requests,urllib3,charset-normalizer,idna,certifi,click,plyer,jaconv
 
 orientation = portrait
 fullscreen = 0
