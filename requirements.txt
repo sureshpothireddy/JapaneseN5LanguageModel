@@ -1,0 +1,63 @@
+# ============================================================
+#  LinguaBridge: English <-> Japanese — requirements.txt
+#  Python 3.11, 3.12, or 3.13
+#
+#  Install (inside your PyCharm virtualenv):
+#      pip install -r requirements.txt
+#
+#  These use minimum-version floors (>=) rather than exact pins so
+#  pip always grabs a prebuilt wheel for YOUR Python version and never
+#  needs a C/C++ compiler. If you are on Python 3.13 this matters:
+#  older pinned versions of numpy/matplotlib have no 3.13 wheels and
+#  would try (and fail) to compile from source.
+#
+#  Platform notes for the microphone (speaking exercises):
+#    Windows : pip install pyaudio          (ships prebuilt wheels)
+#    macOS   : brew install portaudio  then pip install pyaudio
+#    Linux   : sudo apt install portaudio19-dev  then pip install pyaudio
+#  ffmpeg is optional (only used by pydub); the app runs fine without it.
+# ============================================================
+
+# ---------- GUI ----------
+customtkinter>=5.2.2          # Modern themed Tkinter widgets (main UI framework)
+pillow>=10.4.0               # Image loading/resizing for icons
+CTkMessagebox>=2.7           # Polished dialogs for CustomTkinter
+
+# ---------- Database / ORM ----------
+SQLAlchemy>=2.0.30           # ORM over SQLite (progress, SRS state, stats)
+
+# ---------- Text-to-Speech ----------
+gTTS>=2.5.3                  # Google TTS — natural Japanese voice (online)
+pyttsx3>=2.98               # Offline TTS fallback (OS voices)
+playsound3>=2.4.0           # Cross-platform audio playback
+
+# ---------- Speech-to-Text ----------
+SpeechRecognition>=3.11.0    # Mic capture + Google recognizer (ja-JP / en-US)
+PyAudio>=0.2.14             # Microphone backend (see platform notes above)
+
+# ---------- Translation ----------
+deep-translator>=1.11.4      # Online translation hints
+
+# ---------- Charts ----------
+matplotlib>=3.9.2            # 7-day XP chart on the profile screen
+
+# ---------- Japanese language utilities ----------
+pykakasi>=2.3.0             # Kanji -> Hiragana / Romaji (romaji toggle)
+jaconv>=0.4.0               # Kana / width normalization for grading
+
+# ---------- Fuzzy matching / answer scoring ----------
+rapidfuzz>=3.10.0           # Typo-tolerant answer grading
+
+# ---------- Scheduling / reminders ----------
+plyer>=2.1.0               # Desktop notifications for daily reminders
+
+# ---------- Testing (optional) ----------
+pytest>=8.3.0              # Run the suite in /tests
+
+# ---------- Optional extras (uncomment if you want them) ----------
+# numpy>=1.26              # Only if you extend the app with waveform analysis;
+#                         # NOT required to run LinguaBridge.
+# pydub>=0.25.1           # Slow-motion / pitch effects (needs ffmpeg installed).
+# fugashi>=1.3.2          # Sharper Japanese word segmentation for pronunciation
+# unidic-lite>=1.0.8      # marking. The app already falls back gracefully
+#                         # without these two, so they're optional.
