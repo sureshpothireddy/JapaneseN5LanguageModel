@@ -12,7 +12,7 @@ source.exclude_patterns = sync_shared.py
 # Pure-Python / recipe-supported dependencies only — no compiler surprises.
 # (rapidfuzz/pykakasi are intentionally omitted; the app's scorer and
 # romaji helpers degrade gracefully to stdlib fallbacks without them.)
-requirements = python3,kivy,sqlalchemy,gtts,requests,urllib3,charset-normalizer,idna,certifi,click,plyer,jaconv
+requirements = python3,kivy,sqlalchemy,typing_extensions,greenlet,gtts,requests,urllib3,charset-normalizer,idna,certifi,click,plyer,jaconv
 
 orientation = portrait
 fullscreen = 0
@@ -22,8 +22,6 @@ android.api = 34
 android.minapi = 24
 android.archs = arm64-v8a,armeabi-v7a
 android.allow_backup = True
-
-
 
 [buildozer]
 log_level = 2
