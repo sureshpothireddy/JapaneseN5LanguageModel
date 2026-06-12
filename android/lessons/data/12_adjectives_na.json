@@ -1,0 +1,291 @@
+{
+ "id": "adjectives_na",
+ "order": 12,
+ "title": "な-Adjectives",
+ "icon": "✨",
+ "level": "N5",
+ "difficulty": 2,
+ "description": "More describing words: pretty, quiet, famous — the な type.",
+ "objectives": [
+  "Use な-adjectives with な before nouns",
+  "Predicate form with です",
+  "Tell い- and な-adjectives apart"
+ ],
+ "study_guide": [
+  {
+   "heading": "な-adjectives take な before a noun",
+   "body": "きれいな はな = a pretty flower, しずかな へや = a quiet room. The な appears only when the adjective sits directly before a noun."
+  },
+  {
+   "heading": "With です, no な",
+   "body": "このへやは しずかです = This room is quiet. No な before です. The な is only the 'glue' to a following noun."
+  },
+  {
+   "heading": "Spotting the type",
+   "body": "Most adjectives ending in い are い-type, BUT きれい and ゆうめい end in い yet are な-type. Learn those two as exceptions."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "しずかな まちです。",
+   "romaji": "shizuka na machi desu",
+   "en": "It's a quiet town."
+  },
+  {
+   "ja": "このはなは きれいです。",
+   "romaji": "kono hana wa kirei desu",
+   "en": "This flower is pretty."
+  },
+  {
+   "ja": "ゆうめいな せんせいです。",
+   "romaji": "yuumei na sensei desu",
+   "en": "She's a famous teacher."
+  },
+  {
+   "ja": "にほんごは べんりな ことばです。",
+   "romaji": "nihongo wa benri na kotoba desu",
+   "en": "Japanese is a handy language."
+  }
+ ],
+ "grammar_note": {
+  "title": "な-adjective usage",
+  "body": "Before a noun: adj + な + noun. Predicate: adj + です (no な). Negative: adj + じゃ ありません."
+ },
+ "culture_note": "げんき (energetic/well) doubles as 'how are you': おげんきですか. It's a な-adjective and one of the warmest everyday words.",
+ "vocab": [
+  {
+   "ja": "綺麗",
+   "reading": "きれい",
+   "romaji": "kirei",
+   "en": "pretty / clean",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "静か",
+   "reading": "しずか",
+   "romaji": "shizuka",
+   "en": "quiet",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "賑やか",
+   "reading": "にぎやか",
+   "romaji": "nigiyaka",
+   "en": "lively",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "有名",
+   "reading": "ゆうめい",
+   "romaji": "yuumei",
+   "en": "famous",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "便利",
+   "reading": "べんり",
+   "romaji": "benri",
+   "en": "convenient",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "元気",
+   "reading": "げんき",
+   "romaji": "genki",
+   "en": "healthy / energetic",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "親切",
+   "reading": "しんせつ",
+   "romaji": "shinsetsu",
+   "en": "kind",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "好き",
+   "reading": "すき",
+   "romaji": "suki",
+   "en": "liked / favorite",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "嫌い",
+   "reading": "きらい",
+   "romaji": "kirai",
+   "en": "disliked",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "上手",
+   "reading": "じょうず",
+   "romaji": "jouzu",
+   "en": "skillful / good at",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does きれい mean?",
+   "options": [
+    "pretty / clean",
+    "famous",
+    "healthy / energetic",
+    "convenient"
+   ],
+   "answer": "pretty / clean",
+   "tts": "きれい",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “quiet”?",
+   "options": [
+    "すき",
+    "べんり",
+    "しんせつ",
+    "しずか"
+   ],
+   "answer": "しずか",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "きれい",
+     "pretty / clean"
+    ],
+    [
+     "しずか",
+     "quiet"
+    ],
+    [
+     "にぎやか",
+     "lively"
+    ],
+    [
+     "ゆうめい",
+     "famous"
+    ],
+    [
+     "べんり",
+     "convenient"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "pretty / clean",
+   "answers": [
+    "きれい",
+    "kirei"
+   ],
+   "hint": "romaji: kirei"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "しずかな へやです。",
+   "answers": [
+    "it is a quiet room."
+   ],
+   "hint": "shizuka na heya desu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "ゆうめい",
+   "lang": "ja",
+   "answers": [
+    "ゆうめい",
+    "yuumei"
+   ],
+   "hint": "famous"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "しんせつなひとですね。",
+   "lang": "ja",
+   "answers": [
+    "しんせつなひとですね。",
+    "shinsetsu na hito desu ne"
+   ],
+   "hint": "She is a kind person, isn't she."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "しずかな ___。",
+   "options": [
+    "へやです",
+    "綺麗",
+    "好き"
+   ],
+   "answer": "へやです",
+   "translation": "It is a quiet room."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "This town is lively.",
+   "tokens": [
+    "このまちは",
+    "にぎやかです",
+    "。"
+   ],
+   "answer": "このまちはにぎやかです。",
+   "distractors": [
+    "静か",
+    "上手"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "しずかなへやです。",
+   "lang": "ja",
+   "romaji": "shizuka na heya desu",
+   "meaning": "It is a quiet room."
+  },
+  {
+   "type": "speak_translate",
+   "text": "She is a kind person, isn't she.",
+   "target": "しんせつなひとですね。",
+   "accept": [
+    "しんせつなひとですね。"
+   ],
+   "romaji": "shinsetsu na hito desu ne"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "しんせつな ___。",
+   "options": [
+    "上手",
+    "賑やか",
+    "ひとですね"
+   ],
+   "answer": "ひとですね",
+   "translation": "She is a kind person, isn't she."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "skillful / good at",
+   "answers": [
+    "じょうず",
+    "jouzu"
+   ],
+   "hint": "romaji: jouzu"
+  }
+ ]
+}

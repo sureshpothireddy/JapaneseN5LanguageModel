@@ -1,0 +1,291 @@
+{
+ "id": "self_intro",
+ "order": 6,
+ "title": "Self-Introduction",
+ "icon": "🙋",
+ "level": "N5",
+ "difficulty": 1,
+ "description": "Introduce yourself: name, country, and 'I am ___'.",
+ "objectives": [
+  "Use the X は Y です sentence pattern",
+  "Say your name and where you're from",
+  "Ask someone's name politely"
+ ],
+ "study_guide": [
+  {
+   "heading": "The most important pattern: X は Y です",
+   "body": "Japanese sentences often follow [topic] は [info] です. は here is a particle pronounced 'wa' (not 'ha'). です (desu) is a polite 'is/am/are'. わたしは リサです = I am Lisa. Literally: 'As for me, Lisa is.'"
+  },
+  {
+   "heading": "Particle は = 'as for'",
+   "body": "は marks the topic — the thing you're talking about. わたしは… = 'as for me…'. You'll see this particle everywhere; mastering it now makes everything later easier."
+  },
+  {
+   "heading": "Asking back",
+   "body": "Add か to make a question: おなまえは なんですか = What is your name? No question mark needed in Japanese — か does that job."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "わたしは がくせいです。",
+   "romaji": "watashi wa gakusei desu",
+   "en": "I am a student."
+  },
+  {
+   "ja": "わたしは アメリカじんです。",
+   "romaji": "watashi wa amerika-jin desu",
+   "en": "I am American."
+  },
+  {
+   "ja": "おなまえは なんですか。",
+   "romaji": "o-namae wa nan desu ka",
+   "en": "What is your name?"
+  },
+  {
+   "ja": "どうぞ よろしく。",
+   "romaji": "douzo yoroshiku",
+   "en": "Pleased to meet you."
+  }
+ ],
+ "grammar_note": {
+  "title": "は (wa) and です",
+  "body": "は marks the topic and is read 'wa'. です makes the sentence polite. To ask, append か. To say 'is not', です becomes じゃ ありません (covered later)."
+ },
+ "culture_note": "When introducing yourself, end with どうぞ よろしく おねがいします and a bow. It roughly means 'please be kind to me' — there's no English equivalent, but it's essential social glue.",
+ "vocab": [
+  {
+   "ja": "私",
+   "reading": "わたし",
+   "romaji": "watashi",
+   "en": "I / me",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "名前",
+   "reading": "なまえ",
+   "romaji": "namae",
+   "en": "name",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "学生",
+   "reading": "がくせい",
+   "romaji": "gakusei",
+   "en": "student",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "先生",
+   "reading": "せんせい",
+   "romaji": "sensei",
+   "en": "teacher",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "会社員",
+   "reading": "かいしゃいん",
+   "romaji": "kaishain",
+   "en": "office worker",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "アメリカ人",
+   "reading": "アメリカじん",
+   "romaji": "amerika-jin",
+   "en": "American (person)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "日本人",
+   "reading": "にほんじん",
+   "romaji": "nihon-jin",
+   "en": "Japanese (person)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "何",
+   "reading": "なに",
+   "romaji": "nani",
+   "en": "what",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "はい",
+   "reading": "はい",
+   "romaji": "hai",
+   "en": "yes",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "いいえ",
+   "reading": "いいえ",
+   "romaji": "iie",
+   "en": "no",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does わたし mean?",
+   "options": [
+    "teacher",
+    "no",
+    "I / me",
+    "American (person)"
+   ],
+   "answer": "I / me",
+   "tts": "わたし",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “name”?",
+   "options": [
+    "いいえ",
+    "がくせい",
+    "なまえ",
+    "なに"
+   ],
+   "answer": "なまえ",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "わたし",
+     "I / me"
+    ],
+    [
+     "なまえ",
+     "name"
+    ],
+    [
+     "がくせい",
+     "student"
+    ],
+    [
+     "せんせい",
+     "teacher"
+    ],
+    [
+     "かいしゃいん",
+     "office worker"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "I / me",
+   "answers": [
+    "わたし",
+    "watashi"
+   ],
+   "hint": "romaji: watashi"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "わたしは がくせいです。",
+   "answers": [
+    "i am a student."
+   ],
+   "hint": "watashi wa gakusei desu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "せんせい",
+   "lang": "ja",
+   "answers": [
+    "せんせい",
+    "sensei"
+   ],
+   "hint": "teacher"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "あなたはせんせいですか。",
+   "lang": "ja",
+   "answers": [
+    "あなたはせんせいですか。",
+    "anata wa sensei desu ka"
+   ],
+   "hint": "Are you a teacher?"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "わたしは ___。",
+   "options": [
+    "先生",
+    "がくせいです",
+    "アメリカ人"
+   ],
+   "answer": "がくせいです",
+   "translation": "I am a student."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "I am Japanese.",
+   "tokens": [
+    "わたしは",
+    "にほんじんです",
+    "。"
+   ],
+   "answer": "わたしはにほんじんです。",
+   "distractors": [
+    "名前",
+    "学生"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "わたしはがくせいです。",
+   "lang": "ja",
+   "romaji": "watashi wa gakusei desu",
+   "meaning": "I am a student."
+  },
+  {
+   "type": "speak_translate",
+   "text": "Are you a teacher?",
+   "target": "あなたはせんせいですか。",
+   "accept": [
+    "あなたはせんせいですか。"
+   ],
+   "romaji": "anata wa sensei desu ka"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "あなたは ___。",
+   "options": [
+    "せんせいですか",
+    "学生",
+    "名前"
+   ],
+   "answer": "せんせいですか",
+   "translation": "Are you a teacher?"
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "no",
+   "answers": [
+    "いいえ",
+    "iie"
+   ],
+   "hint": "romaji: iie"
+  }
+ ]
+}

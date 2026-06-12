@@ -1,0 +1,291 @@
+{
+ "id": "verbs_present",
+ "order": 9,
+ "title": "Daily Verbs (ます form)",
+ "icon": "🏃",
+ "level": "N5",
+ "difficulty": 2,
+ "description": "Talk about what you do: eat, drink, go, see, using polite ます verbs.",
+ "objectives": [
+  "Use the polite ます verb form",
+  "Build [object] を [verb] sentences",
+  "Negate with ません"
+ ],
+ "study_guide": [
+  {
+   "heading": "The ます form is your safe default",
+   "body": "Polite present verbs end in ます: たべます (eat), のみます (drink), いきます (go), みます (see/watch). Use ます forms everywhere as a beginner — they're always polite and always correct."
+  },
+  {
+   "heading": "Negative = ません",
+   "body": "Swap ます for ません to make it negative: たべます (I eat) → たべません (I don't eat). にくを たべません = I don't eat meat."
+  },
+  {
+   "heading": "Word order: verb goes last",
+   "body": "Japanese is Subject–Object–Verb. わたしは ごはんを たべます = I rice eat. The verb always comes at the very end of the sentence."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "まいにち コーヒーを のみます。",
+   "romaji": "mainichi koohii o nomimasu",
+   "en": "I drink coffee every day."
+  },
+  {
+   "ja": "テレビを みます。",
+   "romaji": "terebi o mimasu",
+   "en": "I watch TV."
+  },
+  {
+   "ja": "にくを たべません。",
+   "romaji": "niku o tabemasen",
+   "en": "I don't eat meat."
+  },
+  {
+   "ja": "がっこうへ いきます。",
+   "romaji": "gakkou e ikimasu",
+   "en": "I go to school."
+  }
+ ],
+ "grammar_note": {
+  "title": "ます / ません",
+  "body": "Polite verbs end in ます (affirmative) or ません (negative). The object takes を. Destination takes へ or に."
+ },
+ "culture_note": "Using ます forms shows respect and is expected with anyone you don't know well. Casual 'dictionary form' comes later — start polite and you'll never offend.",
+ "vocab": [
+  {
+   "ja": "食べます",
+   "reading": "たべます",
+   "romaji": "tabemasu",
+   "en": "to eat",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "飲みます",
+   "reading": "のみます",
+   "romaji": "nomimasu",
+   "en": "to drink",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "行きます",
+   "reading": "いきます",
+   "romaji": "ikimasu",
+   "en": "to go",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "見ます",
+   "reading": "みます",
+   "romaji": "mimasu",
+   "en": "to see / watch",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "読みます",
+   "reading": "よみます",
+   "romaji": "yomimasu",
+   "en": "to read",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "書きます",
+   "reading": "かきます",
+   "romaji": "kakimasu",
+   "en": "to write",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "聞きます",
+   "reading": "ききます",
+   "romaji": "kikimasu",
+   "en": "to listen / ask",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "します",
+   "reading": "します",
+   "romaji": "shimasu",
+   "en": "to do",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "毎日",
+   "reading": "まいにち",
+   "romaji": "mainichi",
+   "en": "every day",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "学校",
+   "reading": "がっこう",
+   "romaji": "gakkou",
+   "en": "school",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does たべます mean?",
+   "options": [
+    "every day",
+    "school",
+    "to drink",
+    "to eat"
+   ],
+   "answer": "to eat",
+   "tts": "たべます",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “to drink”?",
+   "options": [
+    "がっこう",
+    "ききます",
+    "まいにち",
+    "のみます"
+   ],
+   "answer": "のみます",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "たべます",
+     "to eat"
+    ],
+    [
+     "のみます",
+     "to drink"
+    ],
+    [
+     "いきます",
+     "to go"
+    ],
+    [
+     "みます",
+     "to see / watch"
+    ],
+    [
+     "よみます",
+     "to read"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "to eat",
+   "answers": [
+    "たべます",
+    "tabemasu"
+   ],
+   "hint": "romaji: tabemasu"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "ほんを よみます。",
+   "answers": [
+    "i read a book."
+   ],
+   "hint": "hon o yomimasu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "みます",
+   "lang": "ja",
+   "answers": [
+    "みます",
+    "mimasu"
+   ],
+   "hint": "to see / watch"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "にくをたべません。",
+   "lang": "ja",
+   "answers": [
+    "にくをたべません。",
+    "niku o tabemasen"
+   ],
+   "hint": "I don't eat meat."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "ほんを ___。",
+   "options": [
+    "よみます",
+    "毎日",
+    "書きます"
+   ],
+   "answer": "よみます",
+   "translation": "I read a book."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "I listen to music.",
+   "tokens": [
+    "おんがくを",
+    "ききます",
+    "。"
+   ],
+   "answer": "おんがくをききます。",
+   "distractors": [
+    "読みます",
+    "見ます"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "ほんをよみます。",
+   "lang": "ja",
+   "romaji": "hon o yomimasu",
+   "meaning": "I read a book."
+  },
+  {
+   "type": "speak_translate",
+   "text": "I don't eat meat.",
+   "target": "にくをたべません。",
+   "accept": [
+    "にくをたべません。"
+   ],
+   "romaji": "niku o tabemasen"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "にくを ___。",
+   "options": [
+    "行きます",
+    "学校",
+    "たべません"
+   ],
+   "answer": "たべません",
+   "translation": "I don't eat meat."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "school",
+   "answers": [
+    "がっこう",
+    "gakkou"
+   ],
+   "hint": "romaji: gakkou"
+  }
+ ]
+}

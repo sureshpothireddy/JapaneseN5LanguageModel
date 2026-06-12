@@ -1,0 +1,292 @@
+{
+ "id": "plans_future",
+ "order": 25,
+ "title": "Making Plans",
+ "icon": "📅",
+ "level": "N5",
+ "difficulty": 3,
+ "description": "Talk about future plans, invitations, and 'let's ~' with 〜ましょう.",
+ "objectives": [
+  "Suggest with 〜ましょう (let's)",
+  "Use つもり (intend to)",
+  "Talk about tomorrow/next week"
+ ],
+ "study_guide": [
+  {
+   "heading": "〜ましょう = let's",
+   "body": "いきましょう = let's go. たべましょう = let's eat. A warm, inclusive suggestion. 〜ましょうか offers ('shall I/we?')."
+  },
+  {
+   "heading": "Plans with つもり",
+   "body": "あした べんきょうする つもりです = I intend to study tomorrow. つもり expresses intention."
+  },
+  {
+   "heading": "Future time words",
+   "body": "あした (tomorrow), らいしゅう (next week), らいげつ (next month), らいねん (next year)."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "いっしょに いきましょう。",
+   "romaji": "issho ni ikimashou",
+   "en": "Let's go together."
+  },
+  {
+   "ja": "あした なにを しますか。",
+   "romaji": "ashita nani o shimasu ka",
+   "en": "What will you do tomorrow?"
+  },
+  {
+   "ja": "らいしゅう りょこうする つもりです。",
+   "romaji": "raishuu ryokou suru tsumori desu",
+   "en": "I plan to travel next week."
+  },
+  {
+   "ja": "てつだいましょうか。",
+   "romaji": "tetsudaimashou ka",
+   "en": "Shall I help you?"
+  }
+ ],
+ "grammar_note": {
+  "title": "〜ましょう / つもり",
+  "body": "Verb stem + ましょう = let's; + ましょうか = shall we/I. Dictionary verb + つもりです = intend to. Future uses present tense + time word."
+ },
+ "culture_note": "Plans are often confirmed politely and may stay flexible until the last moment. よろしく おねがいします seals an agreement to do something together.",
+ "vocab": [
+  {
+   "ja": "明日",
+   "reading": "あした",
+   "romaji": "ashita",
+   "en": "tomorrow",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "来週",
+   "reading": "らいしゅう",
+   "romaji": "raishuu",
+   "en": "next week",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "来月",
+   "reading": "らいげつ",
+   "romaji": "raigetsu",
+   "en": "next month",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "来年",
+   "reading": "らいねん",
+   "romaji": "rainen",
+   "en": "next year",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "予定",
+   "reading": "よてい",
+   "romaji": "yotei",
+   "en": "plan / schedule",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "つもり",
+   "reading": "つもり",
+   "romaji": "tsumori",
+   "en": "intention",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "手伝います",
+   "reading": "てつだいます",
+   "romaji": "tetsudaimasu",
+   "en": "to help",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "約束",
+   "reading": "やくそく",
+   "romaji": "yakusoku",
+   "en": "promise / appointment",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "パーティー",
+   "reading": "パーティー",
+   "romaji": "paatii",
+   "en": "party",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "週末",
+   "reading": "しゅうまつ",
+   "romaji": "shuumatsu",
+   "en": "weekend",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does あした mean?",
+   "options": [
+    "next week",
+    "tomorrow",
+    "plan / schedule",
+    "party"
+   ],
+   "answer": "tomorrow",
+   "tts": "あした",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “next week”?",
+   "options": [
+    "パーティー",
+    "てつだいます",
+    "らいしゅう",
+    "らいげつ"
+   ],
+   "answer": "らいしゅう",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "あした",
+     "tomorrow"
+    ],
+    [
+     "らいしゅう",
+     "next week"
+    ],
+    [
+     "らいげつ",
+     "next month"
+    ],
+    [
+     "らいねん",
+     "next year"
+    ],
+    [
+     "よてい",
+     "plan / schedule"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "tomorrow",
+   "answers": [
+    "あした",
+    "ashita"
+   ],
+   "hint": "romaji: ashita"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "いっしょに いきましょう。",
+   "answers": [
+    "let's go together."
+   ],
+   "hint": "issho ni ikimashou"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "らいねん",
+   "lang": "ja",
+   "answers": [
+    "らいねん",
+    "rainen"
+   ],
+   "hint": "next year"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "てつだいましょうか。",
+   "lang": "ja",
+   "answers": [
+    "てつだいましょうか。",
+    "tetsudaimashou ka"
+   ],
+   "hint": "Shall I help?"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "いっしょに ___。",
+   "options": [
+    "来年",
+    "いきましょう",
+    "来月"
+   ],
+   "answer": "いきましょう",
+   "translation": "Let's go together."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "I intend to study tomorrow.",
+   "tokens": [
+    "あした",
+    "べんきょうする",
+    "つもりです",
+    "。"
+   ],
+   "answer": "あしたべんきょうするつもりです。",
+   "distractors": [
+    "パーティー",
+    "来月"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "いっしょにいきましょう。",
+   "lang": "ja",
+   "romaji": "issho ni ikimashou",
+   "meaning": "Let's go together."
+  },
+  {
+   "type": "speak_translate",
+   "text": "Shall I help?",
+   "target": "てつだいましょうか。",
+   "accept": [
+    "てつだいましょうか。"
+   ],
+   "romaji": "tetsudaimashou ka"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "___。",
+   "options": [
+    "来年",
+    "手伝います",
+    "てつだいましょうか"
+   ],
+   "answer": "てつだいましょうか",
+   "translation": "Shall I help?"
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "weekend",
+   "answers": [
+    "しゅうまつ",
+    "shuumatsu"
+   ],
+   "hint": "romaji: shuumatsu"
+  }
+ ]
+}

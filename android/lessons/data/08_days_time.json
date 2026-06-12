@@ -1,0 +1,291 @@
+{
+ "id": "days_time",
+ "order": 8,
+ "title": "Days & Time",
+ "icon": "🕐",
+ "level": "N5",
+ "difficulty": 2,
+ "description": "Tell the time, name the days of the week, and say 'when'.",
+ "objectives": [
+  "Read clock times with じ (o'clock) and ふん (minutes)",
+  "Name the seven days of the week",
+  "Ask なんじですか (what time is it?)"
+ ],
+ "study_guide": [
+  {
+   "heading": "Telling the hour: 〜じ",
+   "body": "Add じ to a number for the hour: いちじ = 1 o'clock, さんじ = 3 o'clock. Watch the irregulars: 4 o'clock is よじ (not よんじ), 7 is しちじ, 9 is くじ."
+  },
+  {
+   "heading": "Minutes: 〜ふん / 〜ぷん",
+   "body": "Minutes use ふん or ぷん depending on the number: ごふん = 5 min, じゅっぷん = 10 min. ごぜん = AM, ごご = PM. ごご さんじ = 3 PM."
+  },
+  {
+   "heading": "Days of the week",
+   "body": "Each day ends in ようび: げつようび (Mon), かようび (Tue), すいようび (Wed), もくようび (Thu), きんようび (Fri), どようび (Sat), にちようび (Sun)."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "いま なんじですか。",
+   "romaji": "ima nan-ji desu ka",
+   "en": "What time is it now?"
+  },
+  {
+   "ja": "ごご さんじです。",
+   "romaji": "gogo san-ji desu",
+   "en": "It's 3 PM."
+  },
+  {
+   "ja": "きょうは げつようびです。",
+   "romaji": "kyou wa getsu-youbi desu",
+   "en": "Today is Monday."
+  },
+  {
+   "ja": "しけんは きんようびです。",
+   "romaji": "shiken wa kin-youbi desu",
+   "en": "The exam is on Friday."
+  }
+ ],
+ "grammar_note": {
+  "title": "Time expressions",
+  "body": "Hour = number + じ (irregulars: 4=よ, 7=しち, 9=く). Minutes = number + ふん/ぷん. ごぜん=AM, ごご=PM. Days end in ようび."
+ },
+ "culture_note": "Japanese trains and shops run on precise time. A meeting at さんじ means 3:00 sharp — arriving 'on time' culturally means arriving a few minutes early.",
+ "vocab": [
+  {
+   "ja": "今",
+   "reading": "いま",
+   "romaji": "ima",
+   "en": "now",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "時",
+   "reading": "じ",
+   "romaji": "ji",
+   "en": "o'clock (hour)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "分",
+   "reading": "ふん",
+   "romaji": "fun",
+   "en": "minute(s)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "午前",
+   "reading": "ごぜん",
+   "romaji": "gozen",
+   "en": "AM / morning",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "午後",
+   "reading": "ごご",
+   "romaji": "gogo",
+   "en": "PM / afternoon",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "月曜日",
+   "reading": "げつようび",
+   "romaji": "getsu-youbi",
+   "en": "Monday",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "金曜日",
+   "reading": "きんようび",
+   "romaji": "kin-youbi",
+   "en": "Friday",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "土曜日",
+   "reading": "どようび",
+   "romaji": "do-youbi",
+   "en": "Saturday",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "日曜日",
+   "reading": "にちようび",
+   "romaji": "nichi-youbi",
+   "en": "Sunday",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "今日",
+   "reading": "きょう",
+   "romaji": "kyou",
+   "en": "today",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does いま mean?",
+   "options": [
+    "AM / morning",
+    "Sunday",
+    "now",
+    "today"
+   ],
+   "answer": "now",
+   "tts": "いま",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “o'clock (hour)”?",
+   "options": [
+    "じ",
+    "どようび",
+    "にちようび",
+    "ごぜん"
+   ],
+   "answer": "じ",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "いま",
+     "now"
+    ],
+    [
+     "じ",
+     "o'clock (hour)"
+    ],
+    [
+     "ふん",
+     "minute(s)"
+    ],
+    [
+     "ごぜん",
+     "AM / morning"
+    ],
+    [
+     "ごご",
+     "PM / afternoon"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "now",
+   "answers": [
+    "いま",
+    "ima"
+   ],
+   "hint": "romaji: ima"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "いま くじです。",
+   "answers": [
+    "it is 9 o'clock now."
+   ],
+   "hint": "ima ku-ji desu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "ごぜん",
+   "lang": "ja",
+   "answers": [
+    "ごぜん",
+    "gozen"
+   ],
+   "hint": "AM / morning"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "ごぜんしちじです。",
+   "lang": "ja",
+   "answers": [
+    "ごぜんしちじです。",
+    "gozen shichi-ji desu"
+   ],
+   "hint": "It is 7 AM."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "いま ___。",
+   "options": [
+    "くじです",
+    "今日",
+    "分"
+   ],
+   "answer": "くじです",
+   "translation": "It is 9 o'clock now."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "Today is Saturday.",
+   "tokens": [
+    "きょうは",
+    "どようびです",
+    "。"
+   ],
+   "answer": "きょうはどようびです。",
+   "distractors": [
+    "今日",
+    "午後"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "いまくじです。",
+   "lang": "ja",
+   "romaji": "ima ku-ji desu",
+   "meaning": "It is 9 o'clock now."
+  },
+  {
+   "type": "speak_translate",
+   "text": "It is 7 AM.",
+   "target": "ごぜんしちじです。",
+   "accept": [
+    "ごぜんしちじです。"
+   ],
+   "romaji": "gozen shichi-ji desu"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "ごぜん ___。",
+   "options": [
+    "土曜日",
+    "午後",
+    "しちじです"
+   ],
+   "answer": "しちじです",
+   "translation": "It is 7 AM."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "today",
+   "answers": [
+    "きょう",
+    "kyou"
+   ],
+   "hint": "romaji: kyou"
+  }
+ ]
+}

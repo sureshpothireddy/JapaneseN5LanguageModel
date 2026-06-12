@@ -1,0 +1,293 @@
+{
+ "id": "directions",
+ "order": 21,
+ "title": "Asking Directions",
+ "icon": "🧭",
+ "level": "N5",
+ "difficulty": 3,
+ "description": "Find your way: left, right, straight, and 'how do I get to ~?'.",
+ "objectives": [
+  "Use みぎ/ひだり/まっすぐ",
+  "Ask 〜へ どう いきますか",
+  "Understand simple directions"
+ ],
+ "study_guide": [
+  {
+   "heading": "Core direction words",
+   "body": "みぎ = right, ひだり = left, まっすぐ = straight, つぎ = next. みぎに まがってください = please turn right."
+  },
+  {
+   "heading": "Asking the way",
+   "body": "えきへ どう いきますか = How do I get to the station? すみません for 'excuse me' opens the question politely."
+  },
+  {
+   "heading": "Landmarks",
+   "body": "かど = corner, しんごう = traffic light, こうさてん = intersection. つぎの かどを ひだりに = left at the next corner."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "えきへ どう いきますか。",
+   "romaji": "eki e dou ikimasu ka",
+   "en": "How do I get to the station?"
+  },
+  {
+   "ja": "まっすぐ いってください。",
+   "romaji": "massugu itte kudasai",
+   "en": "Please go straight."
+  },
+  {
+   "ja": "つぎの しんごうを みぎに。",
+   "romaji": "tsugi no shingou o migi ni",
+   "en": "Right at the next light."
+  },
+  {
+   "ja": "ここから とおいですか。",
+   "romaji": "koko kara tooi desu ka",
+   "en": "Is it far from here?"
+  }
+ ],
+ "grammar_note": {
+  "title": "Directions + に まがる",
+  "body": "Direction + に + まがってください = turn (direction). から = from, まで = until/to. へ marks the goal of movement."
+ },
+ "culture_note": "People in Japan will often walk you partway to your destination rather than just point. Kobans (police boxes, こうばん) are great for directions too.",
+ "vocab": [
+  {
+   "ja": "右",
+   "reading": "みぎ",
+   "romaji": "migi",
+   "en": "right",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "左",
+   "reading": "ひだり",
+   "romaji": "hidari",
+   "en": "left",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "真っ直ぐ",
+   "reading": "まっすぐ",
+   "romaji": "massugu",
+   "en": "straight",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "次",
+   "reading": "つぎ",
+   "romaji": "tsugi",
+   "en": "next",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "角",
+   "reading": "かど",
+   "romaji": "kado",
+   "en": "corner",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "信号",
+   "reading": "しんごう",
+   "romaji": "shingou",
+   "en": "traffic light",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "曲がります",
+   "reading": "まがります",
+   "romaji": "magarimasu",
+   "en": "to turn",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "遠い",
+   "reading": "とおい",
+   "romaji": "tooi",
+   "en": "far",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "近い",
+   "reading": "ちかい",
+   "romaji": "chikai",
+   "en": "near",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "地図",
+   "reading": "ちず",
+   "romaji": "chizu",
+   "en": "map",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does みぎ mean?",
+   "options": [
+    "to turn",
+    "near",
+    "left",
+    "right"
+   ],
+   "answer": "right",
+   "tts": "みぎ",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “left”?",
+   "options": [
+    "とおい",
+    "ひだり",
+    "かど",
+    "まがります"
+   ],
+   "answer": "ひだり",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "みぎ",
+     "right"
+    ],
+    [
+     "ひだり",
+     "left"
+    ],
+    [
+     "まっすぐ",
+     "straight"
+    ],
+    [
+     "つぎ",
+     "next"
+    ],
+    [
+     "かど",
+     "corner"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "right",
+   "answers": [
+    "みぎ",
+    "migi"
+   ],
+   "hint": "romaji: migi"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "まっすぐ いってください。",
+   "answers": [
+    "please go straight."
+   ],
+   "hint": "massugu itte kudasai"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "つぎ",
+   "lang": "ja",
+   "answers": [
+    "つぎ",
+    "tsugi"
+   ],
+   "hint": "next"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "えきはちかいですか。",
+   "lang": "ja",
+   "answers": [
+    "えきはちかいですか。",
+    "eki wa chikai desu ka"
+   ],
+   "hint": "Is the station near?"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "まっすぐ ___。",
+   "options": [
+    "曲がります",
+    "角",
+    "いってください"
+   ],
+   "answer": "いってください",
+   "translation": "Please go straight."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "Turn right at the next corner.",
+   "tokens": [
+    "つぎの",
+    "かどを",
+    "みぎに",
+    "まがってください",
+    "。"
+   ],
+   "answer": "つぎのかどをみぎにまがってください。",
+   "distractors": [
+    "信号",
+    "右"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "まっすぐいってください。",
+   "lang": "ja",
+   "romaji": "massugu itte kudasai",
+   "meaning": "Please go straight."
+  },
+  {
+   "type": "speak_translate",
+   "text": "Is the station near?",
+   "target": "えきはちかいですか。",
+   "accept": [
+    "えきはちかいですか。"
+   ],
+   "romaji": "eki wa chikai desu ka"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "えきは ___。",
+   "options": [
+    "左",
+    "地図",
+    "ちかいですか"
+   ],
+   "answer": "ちかいですか",
+   "translation": "Is the station near?"
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "map",
+   "answers": [
+    "ちず",
+    "chizu"
+   ],
+   "hint": "romaji: chizu"
+  }
+ ]
+}

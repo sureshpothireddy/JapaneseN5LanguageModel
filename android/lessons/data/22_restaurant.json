@@ -1,0 +1,291 @@
+{
+ "id": "restaurant",
+ "order": 22,
+ "title": "At the Restaurant",
+ "icon": "🍜",
+ "level": "N5",
+ "difficulty": 3,
+ "description": "Order a meal, ask for the menu, and pay at a Japanese restaurant.",
+ "objectives": [
+  "Order with 〜を おねがいします",
+  "Ask for the menu/bill",
+  "Use a counter for orders"
+ ],
+ "study_guide": [
+  {
+   "heading": "Ordering politely",
+   "body": "ラーメンを おねがいします = ramen, please. おねがいします is slightly more formal/polite than ください and great in restaurants."
+  },
+  {
+   "heading": "Getting started",
+   "body": "メニューを ください = menu please. すみません calls the staff over. おすすめは なんですか = what do you recommend?"
+  },
+  {
+   "heading": "Paying",
+   "body": "おかいけい おねがいします = the bill, please. べつべつで = separately (split the bill)."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "メニューを ください。",
+   "romaji": "menyuu o kudasai",
+   "en": "Menu, please."
+  },
+  {
+   "ja": "ラーメンを おねがいします。",
+   "romaji": "raamen o onegai shimasu",
+   "en": "Ramen, please."
+  },
+  {
+   "ja": "おすすめは なんですか。",
+   "romaji": "osusume wa nan desu ka",
+   "en": "What do you recommend?"
+  },
+  {
+   "ja": "おかいけい おねがいします。",
+   "romaji": "okaikei onegai shimasu",
+   "en": "Check, please."
+  }
+ ],
+ "grammar_note": {
+  "title": "〜を おねがいします",
+  "body": "A polite request for service/items. すみません gets attention. counters: ひとつ/ふたつ for dishes."
+ },
+ "culture_note": "No tipping in Japan — service is included and tipping can confuse staff. Say ごちそうさまでした when leaving; it thanks the cooks and is good manners.",
+ "vocab": [
+  {
+   "ja": "メニュー",
+   "reading": "メニュー",
+   "romaji": "menyuu",
+   "en": "menu",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "お願いします",
+   "reading": "おねがいします",
+   "romaji": "onegai shimasu",
+   "en": "please (request)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "お勧め",
+   "reading": "おすすめ",
+   "romaji": "osusume",
+   "en": "recommendation",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "お会計",
+   "reading": "おかいけい",
+   "romaji": "okaikei",
+   "en": "the bill / check",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "注文",
+   "reading": "ちゅうもん",
+   "romaji": "chuumon",
+   "en": "order",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "ラーメン",
+   "reading": "ラーメン",
+   "romaji": "raamen",
+   "en": "ramen",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "定食",
+   "reading": "ていしょく",
+   "romaji": "teishoku",
+   "en": "set meal",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "飲み放題",
+   "reading": "のみほうだい",
+   "romaji": "nomihoudai",
+   "en": "all-you-can-drink",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "美味しい",
+   "reading": "おいしい",
+   "romaji": "oishii",
+   "en": "delicious",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "お腹空いた",
+   "reading": "おなかすいた",
+   "romaji": "onaka suita",
+   "en": "I'm hungry",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does メニュー mean?",
+   "options": [
+    "menu",
+    "please (request)",
+    "all-you-can-drink",
+    "I'm hungry"
+   ],
+   "answer": "menu",
+   "tts": "メニュー",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “please (request)”?",
+   "options": [
+    "おねがいします",
+    "ラーメン",
+    "のみほうだい",
+    "おすすめ"
+   ],
+   "answer": "おねがいします",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "メニュー",
+     "menu"
+    ],
+    [
+     "おねがいします",
+     "please (request)"
+    ],
+    [
+     "おすすめ",
+     "recommendation"
+    ],
+    [
+     "おかいけい",
+     "the bill / check"
+    ],
+    [
+     "ちゅうもん",
+     "order"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "menu",
+   "answers": [
+    "メニュー",
+    "menyuu"
+   ],
+   "hint": "romaji: menyuu"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "メニューを ください。",
+   "answers": [
+    "menu, please."
+   ],
+   "hint": "menyuu o kudasai"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "おかいけい",
+   "lang": "ja",
+   "answers": [
+    "おかいけい",
+    "okaikei"
+   ],
+   "hint": "the bill / check"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "おかいけいおねがいします。",
+   "lang": "ja",
+   "answers": [
+    "おかいけいおねがいします。",
+    "okaikei onegai shimasu"
+   ],
+   "hint": "The bill, please."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "メニューを ___。",
+   "options": [
+    "ください",
+    "美味しい",
+    "メニュー"
+   ],
+   "answer": "ください",
+   "translation": "Menu, please."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "Ramen, please.",
+   "tokens": [
+    "ラーメンを",
+    "おねがいします",
+    "。"
+   ],
+   "answer": "ラーメンをおねがいします。",
+   "distractors": [
+    "お腹空いた",
+    "注文"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "メニューをください。",
+   "lang": "ja",
+   "romaji": "menyuu o kudasai",
+   "meaning": "Menu, please."
+  },
+  {
+   "type": "speak_translate",
+   "text": "The bill, please.",
+   "target": "おかいけいおねがいします。",
+   "accept": [
+    "おかいけいおねがいします。"
+   ],
+   "romaji": "okaikei onegai shimasu"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "おかいけい ___。",
+   "options": [
+    "おねがいします",
+    "定食",
+    "お腹空いた"
+   ],
+   "answer": "おねがいします",
+   "translation": "The bill, please."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "I'm hungry",
+   "answers": [
+    "おなかすいた",
+    "onaka suita"
+   ],
+   "hint": "romaji: onaka suita"
+  }
+ ]
+}

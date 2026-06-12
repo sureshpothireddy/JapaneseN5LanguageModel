@@ -1,0 +1,292 @@
+{
+ "id": "comparisons",
+ "order": 24,
+ "title": "Comparing Things",
+ "icon": "⚖️",
+ "level": "N5",
+ "difficulty": 3,
+ "description": "Compare two things and pick favorites with 〜より and いちばん.",
+ "objectives": [
+  "Compare with A は B より (A is more than B)",
+  "Ask どちらが ~ ですか",
+  "Use いちばん (the most)"
+ ],
+ "study_guide": [
+  {
+   "heading": "A は B より 〜",
+   "body": "しんかんせんは くるまより はやいです = The bullet train is faster than a car. より = 'than'."
+  },
+  {
+   "heading": "Asking which",
+   "body": "コーヒーと おちゃと どちらが すきですか = Which do you prefer, coffee or tea? どちら = which (of two)."
+  },
+  {
+   "heading": "いちばん = the most",
+   "body": "なつが いちばん すきです = I like summer best. いちばん makes the superlative."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "でんしゃは バスより はやいです。",
+   "romaji": "densha wa basu yori hayai desu",
+   "en": "The train is faster than the bus."
+  },
+  {
+   "ja": "どちらが いいですか。",
+   "romaji": "dochira ga ii desu ka",
+   "en": "Which is better?"
+  },
+  {
+   "ja": "なつが いちばん すきです。",
+   "romaji": "natsu ga ichiban suki desu",
+   "en": "I like summer the best."
+  },
+  {
+   "ja": "これが いちばん やすいです。",
+   "romaji": "kore ga ichiban yasui desu",
+   "en": "This is the cheapest."
+  }
+ ],
+ "grammar_note": {
+  "title": "より / どちら / いちばん",
+  "body": "A は B より [adj] = A is more [adj] than B. どちらが…ですか asks which of two. いちばん = most/best."
+ },
+ "culture_note": "When asked to choose, Japanese speakers may answer どちらでも いいです ('either is fine') to avoid imposing — a politeness reflex worth recognizing.",
+ "vocab": [
+  {
+   "ja": "より",
+   "reading": "より",
+   "romaji": "yori",
+   "en": "than",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "一番",
+   "reading": "いちばん",
+   "romaji": "ichiban",
+   "en": "most / best / number one",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "どちら",
+   "reading": "どちら",
+   "romaji": "dochira",
+   "en": "which (of two)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "速い",
+   "reading": "はやい",
+   "romaji": "hayai",
+   "en": "fast",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "遅い",
+   "reading": "おそい",
+   "romaji": "osoi",
+   "en": "slow / late",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "電車",
+   "reading": "でんしゃ",
+   "romaji": "densha",
+   "en": "train",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "バス",
+   "reading": "バス",
+   "romaji": "basu",
+   "en": "bus",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "新幹線",
+   "reading": "しんかんせん",
+   "romaji": "shinkansen",
+   "en": "bullet train",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "方",
+   "reading": "ほう",
+   "romaji": "hou",
+   "en": "side / direction (for comparison)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "同じ",
+   "reading": "おなじ",
+   "romaji": "onaji",
+   "en": "same",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does より mean?",
+   "options": [
+    "most / best / number one",
+    "than",
+    "same",
+    "slow / late"
+   ],
+   "answer": "than",
+   "tts": "より",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “most / best / number one”?",
+   "options": [
+    "いちばん",
+    "どちら",
+    "おなじ",
+    "でんしゃ"
+   ],
+   "answer": "いちばん",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "より",
+     "than"
+    ],
+    [
+     "いちばん",
+     "most / best / number one"
+    ],
+    [
+     "どちら",
+     "which (of two)"
+    ],
+    [
+     "はやい",
+     "fast"
+    ],
+    [
+     "おそい",
+     "slow / late"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "than",
+   "answers": [
+    "より",
+    "yori"
+   ],
+   "hint": "romaji: yori"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "でんしゃは バスより はやいです。",
+   "answers": [
+    "the train is faster than the bus."
+   ],
+   "hint": "densha wa basu yori hayai desu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "はやい",
+   "lang": "ja",
+   "answers": [
+    "はやい",
+    "hayai"
+   ],
+   "hint": "fast"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "これがいちばんやすいです。",
+   "lang": "ja",
+   "answers": [
+    "これがいちばんやすいです。",
+    "kore ga ichiban yasui desu"
+   ],
+   "hint": "This is the cheapest."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "でんしゃは バスより ___。",
+   "options": [
+    "はやいです",
+    "方",
+    "より"
+   ],
+   "answer": "はやいです",
+   "translation": "The train is faster than the bus."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "I like summer best.",
+   "tokens": [
+    "なつが",
+    "いちばん",
+    "すきです",
+    "。"
+   ],
+   "answer": "なつがいちばんすきです。",
+   "distractors": [
+    "どちら",
+    "新幹線"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "でんしゃはバスよりはやいです。",
+   "lang": "ja",
+   "romaji": "densha wa basu yori hayai desu",
+   "meaning": "The train is faster than the bus."
+  },
+  {
+   "type": "speak_translate",
+   "text": "This is the cheapest.",
+   "target": "これがいちばんやすいです。",
+   "accept": [
+    "これがいちばんやすいです。"
+   ],
+   "romaji": "kore ga ichiban yasui desu"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "これが ___ やすいです。",
+   "options": [
+    "いちばん",
+    "遅い",
+    "電車"
+   ],
+   "answer": "いちばん",
+   "translation": "This is the cheapest."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "same",
+   "answers": [
+    "おなじ",
+    "onaji"
+   ],
+   "hint": "romaji: onaji"
+  }
+ ]
+}

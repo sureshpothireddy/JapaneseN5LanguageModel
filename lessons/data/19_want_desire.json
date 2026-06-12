@@ -1,0 +1,291 @@
+{
+ "id": "want_desire",
+ "order": 19,
+ "title": "Wants & Wishes (〜たい)",
+ "icon": "🌟",
+ "level": "N5",
+ "difficulty": 3,
+ "description": "Say what you want to do and what you want with 〜たい and ほしい.",
+ "objectives": [
+  "Form 〜たいです (want to do)",
+  "Use ほしい (want a thing)",
+  "Invite with 〜ませんか"
+ ],
+ "study_guide": [
+  {
+   "heading": "〜たいです = want to do",
+   "body": "Drop ます, add たいです: たべます → たべたいです (want to eat). にほんへ いきたいです = I want to go to Japan."
+  },
+  {
+   "heading": "ほしい = want a thing",
+   "body": "For wanting an object, use ほしい: あたらしい くるまが ほしいです = I want a new car. The wanted thing takes が."
+  },
+  {
+   "heading": "Inviting: 〜ませんか",
+   "body": "いっしょに いきませんか = Won't you go together (with me)? A polite, warm invitation pattern."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "にほんへ いきたいです。",
+   "romaji": "nihon e ikitai desu",
+   "en": "I want to go to Japan."
+  },
+  {
+   "ja": "みずが のみたいです。",
+   "romaji": "mizu ga nomitai desu",
+   "en": "I want to drink water."
+  },
+  {
+   "ja": "いっしょに たべませんか。",
+   "romaji": "issho ni tabemasen ka",
+   "en": "Shall we eat together?"
+  },
+  {
+   "ja": "やすみが ほしいです。",
+   "romaji": "yasumi ga hoshii desu",
+   "en": "I want a day off."
+  }
+ ],
+ "grammar_note": {
+  "title": "〜たい / ほしい / ませんか",
+  "body": "Verb stem + たいです = want to (verb). Noun + が ほしいです = want (noun). 〜ませんか invites."
+ },
+ "culture_note": "Directly saying 'I want' can feel strong; Japanese softens it with ね or context. With friends it's fine — politeness scales with the relationship.",
+ "vocab": [
+  {
+   "ja": "一緒に",
+   "reading": "いっしょに",
+   "romaji": "issho ni",
+   "en": "together",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "休み",
+   "reading": "やすみ",
+   "romaji": "yasumi",
+   "en": "rest / day off / vacation",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "欲しい",
+   "reading": "ほしい",
+   "romaji": "hoshii",
+   "en": "want (a thing)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "飲み物",
+   "reading": "のみもの",
+   "romaji": "nomimono",
+   "en": "drink / beverage",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "食べ物",
+   "reading": "たべもの",
+   "romaji": "tabemono",
+   "en": "food",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "車",
+   "reading": "くるま",
+   "romaji": "kuruma",
+   "en": "car",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "写真",
+   "reading": "しゃしん",
+   "romaji": "shashin",
+   "en": "photo",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "撮ります",
+   "reading": "とります",
+   "romaji": "torimasu",
+   "en": "to take (a photo)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "買い物",
+   "reading": "かいもの",
+   "romaji": "kaimono",
+   "en": "shopping",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "時間",
+   "reading": "じかん",
+   "romaji": "jikan",
+   "en": "time",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does いっしょに mean?",
+   "options": [
+    "time",
+    "shopping",
+    "rest / day off / vacation",
+    "together"
+   ],
+   "answer": "together",
+   "tts": "いっしょに",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “rest / day off / vacation”?",
+   "options": [
+    "しゃしん",
+    "くるま",
+    "ほしい",
+    "やすみ"
+   ],
+   "answer": "やすみ",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "いっしょに",
+     "together"
+    ],
+    [
+     "やすみ",
+     "rest / day off / vacation"
+    ],
+    [
+     "ほしい",
+     "want (a thing)"
+    ],
+    [
+     "のみもの",
+     "drink / beverage"
+    ],
+    [
+     "たべもの",
+     "food"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "together",
+   "answers": [
+    "いっしょに",
+    "issho ni"
+   ],
+   "hint": "romaji: issho ni"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "にほんへ いきたいです。",
+   "answers": [
+    "i want to go to japan."
+   ],
+   "hint": "nihon e ikitai desu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "のみもの",
+   "lang": "ja",
+   "answers": [
+    "のみもの",
+    "nomimono"
+   ],
+   "hint": "drink / beverage"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "いっしょにいきませんか。",
+   "lang": "ja",
+   "answers": [
+    "いっしょにいきませんか。",
+    "issho ni ikimasen ka"
+   ],
+   "hint": "Shall we go together?"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "にほんへ ___。",
+   "options": [
+    "休み",
+    "いきたいです",
+    "一緒に"
+   ],
+   "answer": "いきたいです",
+   "translation": "I want to go to Japan."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "I want to drink water.",
+   "tokens": [
+    "みずが",
+    "のみたいです",
+    "。"
+   ],
+   "answer": "みずがのみたいです。",
+   "distractors": [
+    "時間",
+    "飲み物"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "にほんへいきたいです。",
+   "lang": "ja",
+   "romaji": "nihon e ikitai desu",
+   "meaning": "I want to go to Japan."
+  },
+  {
+   "type": "speak_translate",
+   "text": "Shall we go together?",
+   "target": "いっしょにいきませんか。",
+   "accept": [
+    "いっしょにいきませんか。"
+   ],
+   "romaji": "issho ni ikimasen ka"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "いっしょに ___。",
+   "options": [
+    "欲しい",
+    "写真",
+    "いきませんか"
+   ],
+   "answer": "いきませんか",
+   "translation": "Shall we go together?"
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "time",
+   "answers": [
+    "じかん",
+    "jikan"
+   ],
+   "hint": "romaji: jikan"
+  }
+ ]
+}

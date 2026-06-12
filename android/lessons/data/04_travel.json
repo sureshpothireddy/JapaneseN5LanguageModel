@@ -1,0 +1,304 @@
+{
+ "id": "travel",
+ "order": 4,
+ "title": "Travel",
+ "icon": "🚄",
+ "level": "N5",
+ "difficulty": 2,
+ "description": "Find the station, buy tickets and ask 'where is …?'.",
+ "grammar_note": {
+  "title": "Asking where: 〜は どこですか",
+  "body": "To ask where something is, say [place] は どこですか — literally '[place], where is it?'. えきは どこですか = Where is the station? To say you go somewhere, use [place] に いきます: とうきょうに いきます = I go to Tokyo."
+ },
+ "culture_note": "Japanese trains are famously punctual — a delay of one minute triggers an apology announcement. Buy an IC card (Suica/Pasmo) on day one: tap in, tap out, and it also works in convenience stores and vending machines.",
+ "vocab": [
+  {
+   "ja": "駅",
+   "reading": "えき",
+   "romaji": "eki",
+   "en": "station",
+   "example_ja": "えきは どこですか。",
+   "example_en": "Where is the station?"
+  },
+  {
+   "ja": "電車",
+   "reading": "でんしゃ",
+   "romaji": "densha",
+   "en": "train",
+   "example_ja": "でんしゃで いきます。",
+   "example_en": "I go by train."
+  },
+  {
+   "ja": "飛行機",
+   "reading": "ひこうき",
+   "romaji": "hikouki",
+   "en": "airplane",
+   "example_ja": "ひこうきは はやいです。",
+   "example_en": "Airplanes are fast."
+  },
+  {
+   "ja": "ホテル",
+   "reading": "ホテル",
+   "romaji": "hoteru",
+   "en": "hotel",
+   "example_ja": "ホテルは えきの ちかくです。",
+   "example_en": "The hotel is near the station."
+  },
+  {
+   "ja": "切符",
+   "reading": "きっぷ",
+   "romaji": "kippu",
+   "en": "ticket",
+   "example_ja": "きっぷを かいます。",
+   "example_en": "I buy a ticket."
+  },
+  {
+   "ja": "どこ",
+   "reading": "どこ",
+   "romaji": "doko",
+   "en": "where",
+   "example_ja": "トイレは どこですか。",
+   "example_en": "Where is the toilet?"
+  },
+  {
+   "ja": "トイレ",
+   "reading": "トイレ",
+   "romaji": "toire",
+   "en": "toilet / restroom",
+   "example_ja": "トイレは あそこです。",
+   "example_en": "The toilet is over there."
+  },
+  {
+   "ja": "行きます",
+   "reading": "いきます",
+   "romaji": "ikimasu",
+   "en": "to go",
+   "example_ja": "あした きょうとに いきます。",
+   "example_en": "Tomorrow I go to Kyoto."
+  },
+  {
+   "ja": "タクシー",
+   "reading": "タクシー",
+   "romaji": "takushii",
+   "en": "taxi",
+   "example_ja": "タクシーを よんでください。",
+   "example_en": "Please call a taxi."
+  },
+  {
+   "ja": "東京",
+   "reading": "とうきょう",
+   "romaji": "toukyou",
+   "en": "Tokyo",
+   "example_ja": "とうきょうは おおきいです。",
+   "example_en": "Tokyo is big."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What is えき?",
+   "options": [
+    "station",
+    "hotel",
+    "airport",
+    "ticket"
+   ],
+   "answer": "station",
+   "tts": "えき",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match travel words",
+   "pairs": [
+    [
+     "でんしゃ",
+     "train"
+    ],
+    [
+     "ひこうき",
+     "airplane"
+    ],
+    [
+     "きっぷ",
+     "ticket"
+    ],
+    [
+     "ホテル",
+     "hotel"
+    ],
+    [
+     "タクシー",
+     "taxi"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "Where is the station?",
+   "answers": [
+    "えきはどこですか",
+    "駅はどこですか"
+   ],
+   "hint": "Pattern: [place] は どこですか"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "でんしゃで いきます。",
+   "answers": [
+    "i go by train",
+    "i will go by train",
+    "i go on the train"
+   ],
+   "hint": "で marks the means of transport"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "トイレはどこですか",
+   "lang": "ja",
+   "answers": [
+    "トイレはどこですか",
+    "toire wa doko desu ka"
+   ],
+   "hint": "The most useful travel question!"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "えきは ___ですか。",
+   "options": [
+    "どこ",
+    "だれ",
+    "いつ",
+    "なに"
+   ],
+   "answer": "どこ",
+   "translation": "Where is the station?"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "とうきょう___ いきます。",
+   "options": [
+    "に",
+    "を",
+    "は",
+    "の"
+   ],
+   "answer": "に",
+   "translation": "I go to Tokyo. (destination particle)"
+  },
+  {
+   "type": "sentence_build",
+   "translation": "Where is the hotel?",
+   "tokens": [
+    "ホテル",
+    "は",
+    "どこ",
+    "ですか",
+    "。"
+   ],
+   "answer": "ホテルはどこですか。",
+   "distractors": [
+    "いきます"
+   ]
+  },
+  {
+   "type": "sentence_build",
+   "translation": "I buy a ticket at the station.",
+   "tokens": [
+    "えき",
+    "で",
+    "きっぷ",
+    "を",
+    "かいます",
+    "。"
+   ],
+   "answer": "えきできっぷをかいます。",
+   "distractors": [
+    "に"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "えきはどこですか",
+   "lang": "ja",
+   "romaji": "eki wa doko desu ka",
+   "meaning": "Where is the station?"
+  },
+  {
+   "type": "speak_translate",
+   "text": "I go to Tokyo.",
+   "target": "とうきょうにいきます",
+   "accept": [
+    "とうきょうにいきます",
+    "東京に行きます"
+   ],
+   "romaji": "toukyou ni ikimasu"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which particle marks a destination with いきます?",
+   "options": [
+    "に",
+    "を",
+    "が",
+    "も"
+   ],
+   "answer": "に",
+   "options_lang": "ja"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "あしたきょうとにいきます",
+   "lang": "ja",
+   "answers": [
+    "あしたきょうとにいきます",
+    "明日京都に行きます",
+    "ashita kyouto ni ikimasu"
+   ],
+   "hint": "Plans for tomorrow"
+  }
+ ],
+ "objectives": [
+  "Ask where places are",
+  "Talk about transport",
+  "Use 〜に いきます (go to ~)"
+ ],
+ "study_guide": [
+  {
+   "heading": "Asking where",
+   "body": "[place] は どこですか = Where is [place]? えきは どこですか = Where is the station? トイレは どこですか is the traveler's lifesaver."
+  },
+  {
+   "heading": "Going places",
+   "body": "[place] に/へ いきます = go to [place]. とうきょうに いきます = I go to Tokyo. に and へ both mark destination."
+  },
+  {
+   "heading": "By what means",
+   "body": "[transport] で いきます = go by [transport]. でんしゃで いきます = I go by train. で marks the method."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "えきは どこですか。",
+   "romaji": "eki wa doko desu ka",
+   "en": "Where is the station?"
+  },
+  {
+   "ja": "でんしゃで いきます。",
+   "romaji": "densha de ikimasu",
+   "en": "I go by train."
+  },
+  {
+   "ja": "とうきょうに いきます。",
+   "romaji": "toukyou ni ikimasu",
+   "en": "I go to Tokyo."
+  },
+  {
+   "ja": "タクシーを よんでください。",
+   "romaji": "takushii o yonde kudasai",
+   "en": "Please call a taxi."
+  }
+ ]
+}

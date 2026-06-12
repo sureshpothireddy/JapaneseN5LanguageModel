@@ -1,0 +1,307 @@
+{
+ "id": "family",
+ "order": 5,
+ "title": "Family",
+ "icon": "👨‍👩‍👧‍👦",
+ "level": "N5",
+ "difficulty": 2,
+ "description": "Talk about your family and use the possessive の.",
+ "grammar_note": {
+  "title": "の links nouns (possession)",
+  "body": "の works like English 's or 'of': わたしの ちち = my father, ともだちの ねこ = my friend's cat. Note the humble/honorific split: use ちち・はは for YOUR OWN father/mother, but おとうさん・おかあさん when talking about someone else's parents (or addressing your own)."
+ },
+ "culture_note": "Japanese family terms change depending on whose family you mean — humble words for your own family (ちち, はは, あに), respectful words for others' (おとうさん, おかあさん, おにいさん). Mixing them up is a classic beginner mistake locals find endearing!",
+ "vocab": [
+  {
+   "ja": "家族",
+   "reading": "かぞく",
+   "romaji": "kazoku",
+   "en": "family",
+   "example_ja": "かぞくは よにんです。",
+   "example_en": "My family has four people."
+  },
+  {
+   "ja": "父",
+   "reading": "ちち",
+   "romaji": "chichi",
+   "en": "(my) father",
+   "example_ja": "ちちは せんせいです。",
+   "example_en": "My father is a teacher."
+  },
+  {
+   "ja": "母",
+   "reading": "はは",
+   "romaji": "haha",
+   "en": "(my) mother",
+   "example_ja": "ははは やさしいです。",
+   "example_en": "My mother is kind."
+  },
+  {
+   "ja": "兄",
+   "reading": "あに",
+   "romaji": "ani",
+   "en": "(my) older brother",
+   "example_ja": "あには がくせいです。",
+   "example_en": "My older brother is a student."
+  },
+  {
+   "ja": "姉",
+   "reading": "あね",
+   "romaji": "ane",
+   "en": "(my) older sister",
+   "example_ja": "あねは とうきょうに すんでいます。",
+   "example_en": "My older sister lives in Tokyo."
+  },
+  {
+   "ja": "弟",
+   "reading": "おとうと",
+   "romaji": "otouto",
+   "en": "younger brother",
+   "example_ja": "おとうとは じゅっさいです。",
+   "example_en": "My younger brother is ten."
+  },
+  {
+   "ja": "妹",
+   "reading": "いもうと",
+   "romaji": "imouto",
+   "en": "younger sister",
+   "example_ja": "いもうとは かわいいです。",
+   "example_en": "My younger sister is cute."
+  },
+  {
+   "ja": "友達",
+   "reading": "ともだち",
+   "romaji": "tomodachi",
+   "en": "friend",
+   "example_ja": "ともだちと えいがを みます。",
+   "example_en": "I watch a movie with my friend."
+  },
+  {
+   "ja": "私",
+   "reading": "わたし",
+   "romaji": "watashi",
+   "en": "I / me",
+   "example_ja": "わたしは リサです。",
+   "example_en": "I am Lisa."
+  },
+  {
+   "ja": "犬",
+   "reading": "いぬ",
+   "romaji": "inu",
+   "en": "dog",
+   "example_ja": "わたしの いぬは ポチです。",
+   "example_en": "My dog is Pochi."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does かぞく mean?",
+   "options": [
+    "family",
+    "friend",
+    "father",
+    "house"
+   ],
+   "answer": "family",
+   "tts": "かぞく",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match family members",
+   "pairs": [
+    [
+     "ちち",
+     "(my) father"
+    ],
+    [
+     "はは",
+     "(my) mother"
+    ],
+    [
+     "あに",
+     "older brother"
+    ],
+    [
+     "いもうと",
+     "younger sister"
+    ],
+    [
+     "ともだち",
+     "friend"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "my father",
+   "answers": [
+    "わたしのちち",
+    "ちち",
+    "私の父"
+   ],
+   "hint": "Use の for possession; humble word for your own father"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "ははは やさしいです。",
+   "answers": [
+    "my mother is kind",
+    "my mother is gentle",
+    "my mom is kind"
+   ],
+   "hint": "やさしい = kind"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "かぞくはよにんです",
+   "lang": "ja",
+   "answers": [
+    "かぞくはよにんです",
+    "家族は四人です",
+    "kazoku wa yonin desu"
+   ],
+   "hint": "Talking about family size"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "わたし___ いぬは ポチです。",
+   "options": [
+    "の",
+    "は",
+    "を",
+    "に"
+   ],
+   "answer": "の",
+   "translation": "My dog is Pochi. (possessive particle)"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "あには がくせい___。",
+   "options": [
+    "です",
+    "ですか",
+    "ました",
+    "ません"
+   ],
+   "answer": "です",
+   "translation": "My older brother is a student."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "My father is a teacher.",
+   "tokens": [
+    "ちち",
+    "は",
+    "せんせい",
+    "です",
+    "。"
+   ],
+   "answer": "ちちはせんせいです。",
+   "distractors": [
+    "の",
+    "ともだち"
+   ]
+  },
+  {
+   "type": "sentence_build",
+   "translation": "My friend's cat is cute.",
+   "tokens": [
+    "ともだち",
+    "の",
+    "ねこ",
+    "は",
+    "かわいい",
+    "です",
+    "。"
+   ],
+   "answer": "ともだちのねこはかわいいです。",
+   "distractors": [
+    "を"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "わたしのかぞくです",
+   "lang": "ja",
+   "romaji": "watashi no kazoku desu",
+   "meaning": "This is my family."
+  },
+  {
+   "type": "speak_translate",
+   "text": "I am Lisa.",
+   "target": "わたしはリサです",
+   "accept": [
+    "わたしはリサです",
+    "私はリサです"
+   ],
+   "romaji": "watashi wa risa desu"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word do you use for YOUR OWN mother?",
+   "options": [
+    "はは",
+    "おかあさん",
+    "あね",
+    "いもうと"
+   ],
+   "answer": "はは",
+   "options_lang": "ja"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "いもうとは かわいいです。",
+   "answers": [
+    "my younger sister is cute",
+    "my little sister is cute"
+   ],
+   "hint": "かわいい = cute"
+  }
+ ],
+ "objectives": [
+  "Name family members",
+  "Use の for possession",
+  "Distinguish humble vs honorific family terms"
+ ],
+ "study_guide": [
+  {
+   "heading": "の links nouns",
+   "body": "の shows possession like 's: わたしの ちち = my father, ともだちの ねこ = my friend's cat."
+  },
+  {
+   "heading": "Your family vs theirs",
+   "body": "Use ちち/はは for YOUR father/mother, but おとうさん/おかあさん for someone else's (or to address your own). It's a politeness distinction."
+  },
+  {
+   "heading": "Counting people",
+   "body": "ひとり (1), ふたり (2), then number + にん: さんにん (3 people). かぞくは よにんです = 4 in my family."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "ちちは せんせいです。",
+   "romaji": "chichi wa sensei desu",
+   "en": "My father is a teacher."
+  },
+  {
+   "ja": "わたしの いぬは ポチです。",
+   "romaji": "watashi no inu wa pochi desu",
+   "en": "My dog is Pochi."
+  },
+  {
+   "ja": "ははは やさしいです。",
+   "romaji": "haha wa yasashii desu",
+   "en": "My mother is kind."
+  },
+  {
+   "ja": "かぞくは よにんです。",
+   "romaji": "kazoku wa yonin desu",
+   "en": "There are four in my family."
+  }
+ ]
+}

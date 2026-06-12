@@ -1,0 +1,291 @@
+{
+ "id": "verbs_past",
+ "order": 16,
+ "title": "Past Tense (ました)",
+ "icon": "⏪",
+ "level": "N5",
+ "difficulty": 3,
+ "description": "Talk about yesterday: the polite past ました / ませんでした.",
+ "objectives": [
+  "Form polite past with ました",
+  "Negative past ませんでした",
+  "Use time words きのう, せんしゅう"
+ ],
+ "study_guide": [
+  {
+   "heading": "ます → ました",
+   "body": "For polite past, swap ます for ました: たべます → たべました (ate). きのう すしを たべました = I ate sushi yesterday."
+  },
+  {
+   "heading": "Negative past: ませんでした",
+   "body": "たべます → たべませんでした (did not eat). きのう べんきょうしませんでした = I didn't study yesterday."
+  },
+  {
+   "heading": "Time words",
+   "body": "きのう (yesterday), せんしゅう (last week), せんげつ (last month), きょねん (last year) usually go near the start of the sentence."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "きのう えいがを みました。",
+   "romaji": "kinou eiga o mimashita",
+   "en": "I watched a movie yesterday."
+  },
+  {
+   "ja": "せんしゅう きょうとへ いきました。",
+   "romaji": "senshuu kyouto e ikimashita",
+   "en": "I went to Kyoto last week."
+  },
+  {
+   "ja": "あさごはんを たべませんでした。",
+   "romaji": "asagohan o tabemasen deshita",
+   "en": "I didn't eat breakfast."
+  },
+  {
+   "ja": "テストは どうでしたか。",
+   "romaji": "tesuto wa dou deshita ka",
+   "en": "How was the test?"
+  }
+ ],
+ "grammar_note": {
+  "title": "ました / ませんでした",
+  "body": "Past affirmative = stem + ました. Past negative = stem + ませんでした. です past = でした."
+ },
+ "culture_note": "おつかれさまでした ('you must be tired', i.e. good work) is said at the end of a workday or shared effort — a past-tense set phrase you'll hear daily.",
+ "vocab": [
+  {
+   "ja": "昨日",
+   "reading": "きのう",
+   "romaji": "kinou",
+   "en": "yesterday",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "先週",
+   "reading": "せんしゅう",
+   "romaji": "senshuu",
+   "en": "last week",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "先月",
+   "reading": "せんげつ",
+   "romaji": "sengetsu",
+   "en": "last month",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "去年",
+   "reading": "きょねん",
+   "romaji": "kyonen",
+   "en": "last year",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "勉強します",
+   "reading": "べんきょうします",
+   "romaji": "benkyou shimasu",
+   "en": "to study",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "会います",
+   "reading": "あいます",
+   "romaji": "aimasu",
+   "en": "to meet",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "来ます",
+   "reading": "きます",
+   "romaji": "kimasu",
+   "en": "to come",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "帰ります",
+   "reading": "かえります",
+   "romaji": "kaerimasu",
+   "en": "to return home",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "朝ご飯",
+   "reading": "あさごはん",
+   "romaji": "asagohan",
+   "en": "breakfast",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "テスト",
+   "reading": "テスト",
+   "romaji": "tesuto",
+   "en": "test",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does きのう mean?",
+   "options": [
+    "to meet",
+    "yesterday",
+    "to return home",
+    "to study"
+   ],
+   "answer": "yesterday",
+   "tts": "きのう",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “last week”?",
+   "options": [
+    "テスト",
+    "きのう",
+    "せんげつ",
+    "せんしゅう"
+   ],
+   "answer": "せんしゅう",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "きのう",
+     "yesterday"
+    ],
+    [
+     "せんしゅう",
+     "last week"
+    ],
+    [
+     "せんげつ",
+     "last month"
+    ],
+    [
+     "きょねん",
+     "last year"
+    ],
+    [
+     "べんきょうします",
+     "to study"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "yesterday",
+   "answers": [
+    "きのう",
+    "kinou"
+   ],
+   "hint": "romaji: kinou"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "きのう えいがを みました。",
+   "answers": [
+    "i watched a movie yesterday."
+   ],
+   "hint": "kinou eiga o mimashita"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "きょねん",
+   "lang": "ja",
+   "answers": [
+    "きょねん",
+    "kyonen"
+   ],
+   "hint": "last year"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "せんしゅうともだちにあいました。",
+   "lang": "ja",
+   "answers": [
+    "せんしゅうともだちにあいました。",
+    "senshuu tomodachi ni aimashita"
+   ],
+   "hint": "I met a friend last week."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "きのう えいがを ___。",
+   "options": [
+    "みました",
+    "先月",
+    "来ます"
+   ],
+   "answer": "みました",
+   "translation": "I watched a movie yesterday."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "I didn't eat breakfast.",
+   "tokens": [
+    "あさごはんを",
+    "たべませんでした",
+    "。"
+   ],
+   "answer": "あさごはんをたべませんでした。",
+   "distractors": [
+    "昨日",
+    "テスト"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "きのうえいがをみました。",
+   "lang": "ja",
+   "romaji": "kinou eiga o mimashita",
+   "meaning": "I watched a movie yesterday."
+  },
+  {
+   "type": "speak_translate",
+   "text": "I met a friend last week.",
+   "target": "せんしゅうともだちにあいました。",
+   "accept": [
+    "せんしゅうともだちにあいました。"
+   ],
+   "romaji": "senshuu tomodachi ni aimashita"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "せんしゅう ___ あいました。",
+   "options": [
+    "ともだちに",
+    "帰ります",
+    "去年"
+   ],
+   "answer": "ともだちに",
+   "translation": "I met a friend last week."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "test",
+   "answers": [
+    "テスト",
+    "tesuto"
+   ],
+   "hint": "romaji: tesuto"
+  }
+ ]
+}

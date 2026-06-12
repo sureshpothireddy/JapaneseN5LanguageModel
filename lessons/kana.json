@@ -1,0 +1,678 @@
+{
+ "hiragana": [
+  {
+   "group": "Vowels",
+   "chars": [
+    {
+     "kana": "あ",
+     "romaji": "a"
+    },
+    {
+     "kana": "い",
+     "romaji": "i"
+    },
+    {
+     "kana": "う",
+     "romaji": "u"
+    },
+    {
+     "kana": "え",
+     "romaji": "e"
+    },
+    {
+     "kana": "お",
+     "romaji": "o"
+    }
+   ]
+  },
+  {
+   "group": "K",
+   "chars": [
+    {
+     "kana": "か",
+     "romaji": "ka"
+    },
+    {
+     "kana": "き",
+     "romaji": "ki"
+    },
+    {
+     "kana": "く",
+     "romaji": "ku"
+    },
+    {
+     "kana": "け",
+     "romaji": "ke"
+    },
+    {
+     "kana": "こ",
+     "romaji": "ko"
+    }
+   ]
+  },
+  {
+   "group": "S",
+   "chars": [
+    {
+     "kana": "さ",
+     "romaji": "sa"
+    },
+    {
+     "kana": "し",
+     "romaji": "shi"
+    },
+    {
+     "kana": "す",
+     "romaji": "su"
+    },
+    {
+     "kana": "せ",
+     "romaji": "se"
+    },
+    {
+     "kana": "そ",
+     "romaji": "so"
+    }
+   ]
+  },
+  {
+   "group": "T",
+   "chars": [
+    {
+     "kana": "た",
+     "romaji": "ta"
+    },
+    {
+     "kana": "ち",
+     "romaji": "chi"
+    },
+    {
+     "kana": "つ",
+     "romaji": "tsu"
+    },
+    {
+     "kana": "て",
+     "romaji": "te"
+    },
+    {
+     "kana": "と",
+     "romaji": "to"
+    }
+   ]
+  },
+  {
+   "group": "N",
+   "chars": [
+    {
+     "kana": "な",
+     "romaji": "na"
+    },
+    {
+     "kana": "に",
+     "romaji": "ni"
+    },
+    {
+     "kana": "ぬ",
+     "romaji": "nu"
+    },
+    {
+     "kana": "ね",
+     "romaji": "ne"
+    },
+    {
+     "kana": "の",
+     "romaji": "no"
+    }
+   ]
+  },
+  {
+   "group": "H",
+   "chars": [
+    {
+     "kana": "は",
+     "romaji": "ha"
+    },
+    {
+     "kana": "ひ",
+     "romaji": "hi"
+    },
+    {
+     "kana": "ふ",
+     "romaji": "fu"
+    },
+    {
+     "kana": "へ",
+     "romaji": "he"
+    },
+    {
+     "kana": "ほ",
+     "romaji": "ho"
+    }
+   ]
+  },
+  {
+   "group": "M",
+   "chars": [
+    {
+     "kana": "ま",
+     "romaji": "ma"
+    },
+    {
+     "kana": "み",
+     "romaji": "mi"
+    },
+    {
+     "kana": "む",
+     "romaji": "mu"
+    },
+    {
+     "kana": "め",
+     "romaji": "me"
+    },
+    {
+     "kana": "も",
+     "romaji": "mo"
+    }
+   ]
+  },
+  {
+   "group": "Y",
+   "chars": [
+    {
+     "kana": "や",
+     "romaji": "ya"
+    },
+    {
+     "kana": "ゆ",
+     "romaji": "yu"
+    },
+    {
+     "kana": "よ",
+     "romaji": "yo"
+    }
+   ]
+  },
+  {
+   "group": "R",
+   "chars": [
+    {
+     "kana": "ら",
+     "romaji": "ra"
+    },
+    {
+     "kana": "り",
+     "romaji": "ri"
+    },
+    {
+     "kana": "る",
+     "romaji": "ru"
+    },
+    {
+     "kana": "れ",
+     "romaji": "re"
+    },
+    {
+     "kana": "ろ",
+     "romaji": "ro"
+    }
+   ]
+  },
+  {
+   "group": "W & N",
+   "chars": [
+    {
+     "kana": "わ",
+     "romaji": "wa"
+    },
+    {
+     "kana": "を",
+     "romaji": "wo"
+    },
+    {
+     "kana": "ん",
+     "romaji": "n"
+    }
+   ]
+  },
+  {
+   "group": "Dakuten G/Z/D/B",
+   "chars": [
+    {
+     "kana": "が",
+     "romaji": "ga"
+    },
+    {
+     "kana": "ぎ",
+     "romaji": "gi"
+    },
+    {
+     "kana": "ぐ",
+     "romaji": "gu"
+    },
+    {
+     "kana": "げ",
+     "romaji": "ge"
+    },
+    {
+     "kana": "ご",
+     "romaji": "go"
+    },
+    {
+     "kana": "ざ",
+     "romaji": "za"
+    },
+    {
+     "kana": "じ",
+     "romaji": "ji"
+    },
+    {
+     "kana": "ず",
+     "romaji": "zu"
+    },
+    {
+     "kana": "ぜ",
+     "romaji": "ze"
+    },
+    {
+     "kana": "ぞ",
+     "romaji": "zo"
+    },
+    {
+     "kana": "だ",
+     "romaji": "da"
+    },
+    {
+     "kana": "で",
+     "romaji": "de"
+    },
+    {
+     "kana": "ど",
+     "romaji": "do"
+    },
+    {
+     "kana": "ば",
+     "romaji": "ba"
+    },
+    {
+     "kana": "び",
+     "romaji": "bi"
+    },
+    {
+     "kana": "ぶ",
+     "romaji": "bu"
+    },
+    {
+     "kana": "べ",
+     "romaji": "be"
+    },
+    {
+     "kana": "ぼ",
+     "romaji": "bo"
+    }
+   ]
+  },
+  {
+   "group": "Handakuten P",
+   "chars": [
+    {
+     "kana": "ぱ",
+     "romaji": "pa"
+    },
+    {
+     "kana": "ぴ",
+     "romaji": "pi"
+    },
+    {
+     "kana": "ぷ",
+     "romaji": "pu"
+    },
+    {
+     "kana": "ぺ",
+     "romaji": "pe"
+    },
+    {
+     "kana": "ぽ",
+     "romaji": "po"
+    }
+   ]
+  }
+ ],
+ "katakana": [
+  {
+   "group": "Vowels",
+   "chars": [
+    {
+     "kana": "ア",
+     "romaji": "a"
+    },
+    {
+     "kana": "イ",
+     "romaji": "i"
+    },
+    {
+     "kana": "ウ",
+     "romaji": "u"
+    },
+    {
+     "kana": "エ",
+     "romaji": "e"
+    },
+    {
+     "kana": "オ",
+     "romaji": "o"
+    }
+   ]
+  },
+  {
+   "group": "K",
+   "chars": [
+    {
+     "kana": "カ",
+     "romaji": "ka"
+    },
+    {
+     "kana": "キ",
+     "romaji": "ki"
+    },
+    {
+     "kana": "ク",
+     "romaji": "ku"
+    },
+    {
+     "kana": "ケ",
+     "romaji": "ke"
+    },
+    {
+     "kana": "コ",
+     "romaji": "ko"
+    }
+   ]
+  },
+  {
+   "group": "S",
+   "chars": [
+    {
+     "kana": "サ",
+     "romaji": "sa"
+    },
+    {
+     "kana": "シ",
+     "romaji": "shi"
+    },
+    {
+     "kana": "ス",
+     "romaji": "su"
+    },
+    {
+     "kana": "セ",
+     "romaji": "se"
+    },
+    {
+     "kana": "ソ",
+     "romaji": "so"
+    }
+   ]
+  },
+  {
+   "group": "T",
+   "chars": [
+    {
+     "kana": "タ",
+     "romaji": "ta"
+    },
+    {
+     "kana": "チ",
+     "romaji": "chi"
+    },
+    {
+     "kana": "ツ",
+     "romaji": "tsu"
+    },
+    {
+     "kana": "テ",
+     "romaji": "te"
+    },
+    {
+     "kana": "ト",
+     "romaji": "to"
+    }
+   ]
+  },
+  {
+   "group": "N",
+   "chars": [
+    {
+     "kana": "ナ",
+     "romaji": "na"
+    },
+    {
+     "kana": "ニ",
+     "romaji": "ni"
+    },
+    {
+     "kana": "ヌ",
+     "romaji": "nu"
+    },
+    {
+     "kana": "ネ",
+     "romaji": "ne"
+    },
+    {
+     "kana": "ノ",
+     "romaji": "no"
+    }
+   ]
+  },
+  {
+   "group": "H",
+   "chars": [
+    {
+     "kana": "ハ",
+     "romaji": "ha"
+    },
+    {
+     "kana": "ヒ",
+     "romaji": "hi"
+    },
+    {
+     "kana": "フ",
+     "romaji": "fu"
+    },
+    {
+     "kana": "ヘ",
+     "romaji": "he"
+    },
+    {
+     "kana": "ホ",
+     "romaji": "ho"
+    }
+   ]
+  },
+  {
+   "group": "M",
+   "chars": [
+    {
+     "kana": "マ",
+     "romaji": "ma"
+    },
+    {
+     "kana": "ミ",
+     "romaji": "mi"
+    },
+    {
+     "kana": "ム",
+     "romaji": "mu"
+    },
+    {
+     "kana": "メ",
+     "romaji": "me"
+    },
+    {
+     "kana": "モ",
+     "romaji": "mo"
+    }
+   ]
+  },
+  {
+   "group": "Y",
+   "chars": [
+    {
+     "kana": "ヤ",
+     "romaji": "ya"
+    },
+    {
+     "kana": "ユ",
+     "romaji": "yu"
+    },
+    {
+     "kana": "ヨ",
+     "romaji": "yo"
+    }
+   ]
+  },
+  {
+   "group": "R",
+   "chars": [
+    {
+     "kana": "ラ",
+     "romaji": "ra"
+    },
+    {
+     "kana": "リ",
+     "romaji": "ri"
+    },
+    {
+     "kana": "ル",
+     "romaji": "ru"
+    },
+    {
+     "kana": "レ",
+     "romaji": "re"
+    },
+    {
+     "kana": "ロ",
+     "romaji": "ro"
+    }
+   ]
+  },
+  {
+   "group": "W & N",
+   "chars": [
+    {
+     "kana": "ワ",
+     "romaji": "wa"
+    },
+    {
+     "kana": "ヲ",
+     "romaji": "wo"
+    },
+    {
+     "kana": "ン",
+     "romaji": "n"
+    }
+   ]
+  },
+  {
+   "group": "Dakuten G/Z/D/B",
+   "chars": [
+    {
+     "kana": "ガ",
+     "romaji": "ga"
+    },
+    {
+     "kana": "ギ",
+     "romaji": "gi"
+    },
+    {
+     "kana": "グ",
+     "romaji": "gu"
+    },
+    {
+     "kana": "ゲ",
+     "romaji": "ge"
+    },
+    {
+     "kana": "ゴ",
+     "romaji": "go"
+    },
+    {
+     "kana": "ザ",
+     "romaji": "za"
+    },
+    {
+     "kana": "ジ",
+     "romaji": "ji"
+    },
+    {
+     "kana": "ズ",
+     "romaji": "zu"
+    },
+    {
+     "kana": "ゼ",
+     "romaji": "ze"
+    },
+    {
+     "kana": "ゾ",
+     "romaji": "zo"
+    },
+    {
+     "kana": "ダ",
+     "romaji": "da"
+    },
+    {
+     "kana": "デ",
+     "romaji": "de"
+    },
+    {
+     "kana": "ド",
+     "romaji": "do"
+    },
+    {
+     "kana": "バ",
+     "romaji": "ba"
+    },
+    {
+     "kana": "ビ",
+     "romaji": "bi"
+    },
+    {
+     "kana": "ブ",
+     "romaji": "bu"
+    },
+    {
+     "kana": "ベ",
+     "romaji": "be"
+    },
+    {
+     "kana": "ボ",
+     "romaji": "bo"
+    }
+   ]
+  },
+  {
+   "group": "Handakuten P",
+   "chars": [
+    {
+     "kana": "パ",
+     "romaji": "pa"
+    },
+    {
+     "kana": "ピ",
+     "romaji": "pi"
+    },
+    {
+     "kana": "プ",
+     "romaji": "pu"
+    },
+    {
+     "kana": "ペ",
+     "romaji": "pe"
+    },
+    {
+     "kana": "ポ",
+     "romaji": "po"
+    }
+   ]
+  }
+ ]
+}

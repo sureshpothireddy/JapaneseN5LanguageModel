@@ -1,0 +1,292 @@
+{
+ "id": "this_that",
+ "order": 7,
+ "title": "This & That (これ・それ・あれ)",
+ "icon": "👉",
+ "level": "N5",
+ "difficulty": 1,
+ "description": "Point at things and name them with これ, それ, あれ.",
+ "objectives": [
+  "Distinguish これ / それ / あれ by distance",
+  "Ask 'what is this?' これは なんですか",
+  "Use の to connect nouns (this is my book)"
+ ],
+ "study_guide": [
+  {
+   "heading": "Three distances",
+   "body": "これ = this (near me). それ = that (near you). あれ = that over there (far from both). The ko-so-a-do system runs through all of Japanese — learn it once, reuse forever."
+  },
+  {
+   "heading": "これは なんですか",
+   "body": "これは なんですか = What is this? Answer: それは ほんです = That (by you) is a book. Notice the speaker switches これ→それ depending on who's closer."
+  },
+  {
+   "heading": "の joins nouns",
+   "body": "の links two nouns, usually showing possession or type: わたしの ほん = my book, にほんごの ほん = a Japanese-language book."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "これは ほんです。",
+   "romaji": "kore wa hon desu",
+   "en": "This is a book."
+  },
+  {
+   "ja": "それは なんですか。",
+   "romaji": "sore wa nan desu ka",
+   "en": "What is that?"
+  },
+  {
+   "ja": "あれは わたしの かばんです。",
+   "romaji": "are wa watashi no kaban desu",
+   "en": "That over there is my bag."
+  },
+  {
+   "ja": "これは にほんごの ほんです。",
+   "romaji": "kore wa nihongo no hon desu",
+   "en": "This is a Japanese book."
+  }
+ ],
+ "grammar_note": {
+  "title": "これ・それ・あれ + の",
+  "body": "これ/それ/あれ are 'this/that/that-yonder'. Pair them with は…です to identify things. の connects nouns: A の B means 'B of A' or 'A's B'."
+ },
+ "culture_note": "Pointing with one finger is a little blunt in Japan; people often gesture with an open hand. But これ/それ/あれ in speech do the pointing for you.",
+ "vocab": [
+  {
+   "ja": "これ",
+   "reading": "これ",
+   "romaji": "kore",
+   "en": "this (near me)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "それ",
+   "reading": "それ",
+   "romaji": "sore",
+   "en": "that (near you)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "あれ",
+   "reading": "あれ",
+   "romaji": "are",
+   "en": "that (over there)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "本",
+   "reading": "ほん",
+   "romaji": "hon",
+   "en": "book",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "鞄",
+   "reading": "かばん",
+   "romaji": "kaban",
+   "en": "bag",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "時計",
+   "reading": "とけい",
+   "romaji": "tokei",
+   "en": "clock / watch",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "傘",
+   "reading": "かさ",
+   "romaji": "kasa",
+   "en": "umbrella",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "ペン",
+   "reading": "ペン",
+   "romaji": "pen",
+   "en": "pen",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "日本語",
+   "reading": "にほんご",
+   "romaji": "nihongo",
+   "en": "Japanese (language)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "英語",
+   "reading": "えいご",
+   "romaji": "eigo",
+   "en": "English (language)",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does これ mean?",
+   "options": [
+    "this (near me)",
+    "book",
+    "pen",
+    "umbrella"
+   ],
+   "answer": "this (near me)",
+   "tts": "これ",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “that (near you)”?",
+   "options": [
+    "それ",
+    "ペン",
+    "とけい",
+    "ほん"
+   ],
+   "answer": "それ",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "これ",
+     "this (near me)"
+    ],
+    [
+     "それ",
+     "that (near you)"
+    ],
+    [
+     "あれ",
+     "that (over there)"
+    ],
+    [
+     "ほん",
+     "book"
+    ],
+    [
+     "かばん",
+     "bag"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "this (near me)",
+   "answers": [
+    "これ",
+    "kore"
+   ],
+   "hint": "romaji: kore"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "これは ペンです。",
+   "answers": [
+    "this is a pen."
+   ],
+   "hint": "kore wa pen desu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "ほん",
+   "lang": "ja",
+   "answers": [
+    "ほん",
+    "hon"
+   ],
+   "hint": "book"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "あれはとけいです。",
+   "lang": "ja",
+   "answers": [
+    "あれはとけいです。",
+    "are wa tokei desu"
+   ],
+   "hint": "That over there is a clock."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "これは ___。",
+   "options": [
+    "時計",
+    "本",
+    "ペンです"
+   ],
+   "answer": "ペンです",
+   "translation": "This is a pen."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "That is my umbrella.",
+   "tokens": [
+    "それは",
+    "わたしの",
+    "かさです",
+    "。"
+   ],
+   "answer": "それはわたしのかさです。",
+   "distractors": [
+    "あれ",
+    "日本語"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "これはペンです。",
+   "lang": "ja",
+   "romaji": "kore wa pen desu",
+   "meaning": "This is a pen."
+  },
+  {
+   "type": "speak_translate",
+   "text": "That over there is a clock.",
+   "target": "あれはとけいです。",
+   "accept": [
+    "あれはとけいです。"
+   ],
+   "romaji": "are wa tokei desu"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "あれは ___。",
+   "options": [
+    "とけいです",
+    "傘",
+    "これ"
+   ],
+   "answer": "とけいです",
+   "translation": "That over there is a clock."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "English (language)",
+   "answers": [
+    "えいご",
+    "eigo"
+   ],
+   "hint": "romaji: eigo"
+  }
+ ]
+}

@@ -1,0 +1,321 @@
+{
+ "id": "numbers",
+ "order": 2,
+ "title": "Numbers",
+ "icon": "🔢",
+ "level": "N5",
+ "difficulty": 1,
+ "description": "Count from one to a hundred and ask how much things cost.",
+ "grammar_note": {
+  "title": "Two readings, one number",
+  "body": "Most numbers have one common reading: いち(1), に(2), さん(3)… but 4 and 7 have two: 4 = よん or し, 7 = なな or しち. In daily life よん and なな are safer because し also means 'death' (死). 100 is ひゃく and 1000 is せん."
+ },
+ "culture_note": "Prices in Japan are often shown without tax (税抜 zeinuki). When shopping you'll constantly hear 〜えん (yen): せんえん = 1000 yen. The number 4 (し) is considered unlucky — many hospitals skip room number 4!",
+ "vocab": [
+  {
+   "ja": "一",
+   "reading": "いち",
+   "romaji": "ichi",
+   "en": "one",
+   "example_ja": "りんごを 一つ ください。",
+   "example_en": "One apple, please."
+  },
+  {
+   "ja": "二",
+   "reading": "に",
+   "romaji": "ni",
+   "en": "two",
+   "example_ja": "ねこが 二ひき います。",
+   "example_en": "There are two cats."
+  },
+  {
+   "ja": "三",
+   "reading": "さん",
+   "romaji": "san",
+   "en": "three",
+   "example_ja": "三じに あいましょう。",
+   "example_en": "Let's meet at three o'clock."
+  },
+  {
+   "ja": "四",
+   "reading": "よん",
+   "romaji": "yon",
+   "en": "four",
+   "example_ja": "かぞくは 四にん です。",
+   "example_en": "My family has four people."
+  },
+  {
+   "ja": "五",
+   "reading": "ご",
+   "romaji": "go",
+   "en": "five",
+   "example_ja": "五ふん まってください。",
+   "example_en": "Please wait five minutes."
+  },
+  {
+   "ja": "六",
+   "reading": "ろく",
+   "romaji": "roku",
+   "en": "six",
+   "example_ja": "あさ 六じに おきます。",
+   "example_en": "I wake up at six in the morning."
+  },
+  {
+   "ja": "七",
+   "reading": "なな",
+   "romaji": "nana",
+   "en": "seven",
+   "example_ja": "七がつは あついです。",
+   "example_en": "July is hot."
+  },
+  {
+   "ja": "八",
+   "reading": "はち",
+   "romaji": "hachi",
+   "en": "eight",
+   "example_ja": "八じに ばんごはんを たべます。",
+   "example_en": "I eat dinner at eight."
+  },
+  {
+   "ja": "九",
+   "reading": "きゅう",
+   "romaji": "kyuu",
+   "en": "nine",
+   "example_ja": "九じに ねます。",
+   "example_en": "I sleep at nine."
+  },
+  {
+   "ja": "十",
+   "reading": "じゅう",
+   "romaji": "juu",
+   "en": "ten",
+   "example_ja": "十えんを ください。",
+   "example_en": "Ten yen, please."
+  },
+  {
+   "ja": "百",
+   "reading": "ひゃく",
+   "romaji": "hyaku",
+   "en": "one hundred",
+   "example_ja": "これは 百えん です。",
+   "example_en": "This is 100 yen."
+  },
+  {
+   "ja": "いくら",
+   "reading": "いくら",
+   "romaji": "ikura",
+   "en": "how much",
+   "example_ja": "これは いくらですか。",
+   "example_en": "How much is this?"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What is さん?",
+   "options": [
+    "three",
+    "two",
+    "five",
+    "ten"
+   ],
+   "answer": "three",
+   "tts": "さん",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which number is ろく?",
+   "options": [
+    "6",
+    "4",
+    "9",
+    "8"
+   ],
+   "answer": "6",
+   "tts": "ろく",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the numbers",
+   "pairs": [
+    [
+     "いち",
+     "1"
+    ],
+    [
+     "に",
+     "2"
+    ],
+    [
+     "ご",
+     "5"
+    ],
+    [
+     "はち",
+     "8"
+    ],
+    [
+     "じゅう",
+     "10"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "seven",
+   "answers": [
+    "なな",
+    "しち",
+    "七"
+   ],
+   "hint": "Two readings exist — the safer one starts with na"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "きゅう",
+   "answers": [
+    "nine",
+    "9"
+   ],
+   "hint": "One less than ten"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "よん",
+   "lang": "ja",
+   "answers": [
+    "よん",
+    "yon",
+    "四"
+   ],
+   "hint": "An 'unlucky' number in Japan"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "ひゃく",
+   "lang": "ja",
+   "answers": [
+    "ひゃく",
+    "hyaku",
+    "百"
+   ],
+   "hint": "A round number"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "これは ___ですか。",
+   "options": [
+    "いくら",
+    "いち",
+    "なな",
+    "ひゃく"
+   ],
+   "answer": "いくら",
+   "translation": "How much is this?"
+  },
+  {
+   "type": "sentence_build",
+   "translation": "This is 100 yen.",
+   "tokens": [
+    "これ",
+    "は",
+    "ひゃくえん",
+    "です",
+    "。"
+   ],
+   "answer": "これはひゃくえんです。",
+   "distractors": [
+    "じゅうえん"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "いち、に、さん、よん、ご",
+   "lang": "ja",
+   "romaji": "ichi, ni, san, yon, go",
+   "meaning": "one, two, three, four, five"
+  },
+  {
+   "type": "speak_translate",
+   "text": "ten",
+   "target": "じゅう",
+   "accept": [
+    "じゅう",
+    "十"
+   ],
+   "romaji": "juu"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "How much = ?",
+   "options": [
+    "いくら",
+    "いつ",
+    "どこ",
+    "だれ"
+   ],
+   "answer": "いくら",
+   "options_lang": "ja"
+  },
+  {
+   "type": "sentence_build",
+   "translation": "How much is this?",
+   "tokens": [
+    "これ",
+    "は",
+    "いくら",
+    "ですか",
+    "。"
+   ],
+   "answer": "これはいくらですか。",
+   "distractors": [
+    "どこ"
+   ]
+  }
+ ],
+ "objectives": [
+  "Count 1-10, 100",
+  "Ask and state prices in yen",
+  "Handle the tricky readings of 4, 7, 9"
+ ],
+ "study_guide": [
+  {
+   "heading": "The base numbers",
+   "body": "いち,に,さん,し/よん,ご,ろく,しち/なな,はち,きゅう,じゅう. For 4 and 7, prefer よん and なな in daily life."
+  },
+  {
+   "heading": "Bigger numbers",
+   "body": "ひゃく = 100, せん = 1000. Combine: にひゃく = 200, さんぜん = 3000. Prices end in えん (yen)."
+  },
+  {
+   "heading": "Asking how much",
+   "body": "いくらですか = how much? これは いくらですか = How much is this? Answer with number + えんです."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "これは ひゃくえんです。",
+   "romaji": "kore wa hyaku-en desu",
+   "en": "This is 100 yen."
+  },
+  {
+   "ja": "ぜんぶで いくらですか。",
+   "romaji": "zenbu de ikura desu ka",
+   "en": "How much altogether?"
+  },
+  {
+   "ja": "かぞくは よにんです。",
+   "romaji": "kazoku wa yonin desu",
+   "en": "My family has four people."
+  },
+  {
+   "ja": "くじに あいましょう。",
+   "romaji": "ku-ji ni aimashou",
+   "en": "Let's meet at 9."
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+{
+ "id": "weather_seasons",
+ "order": 14,
+ "title": "Weather & Seasons",
+ "icon": "🌦️",
+ "level": "N5",
+ "difficulty": 2,
+ "description": "Talk about the weather and the four seasons.",
+ "objectives": [
+  "Describe weather with い-adjectives",
+  "Name the four seasons",
+  "Use 〜ね for agreement"
+ ],
+ "study_guide": [
+  {
+   "heading": "Weather basics",
+   "body": "てんき = weather. いい てんき = good weather. あめ = rain, ゆき = snow, はれ = clear, くもり = cloudy. きょうは あめです = It's rainy today."
+  },
+  {
+   "heading": "The four seasons",
+   "body": "はる (spring), なつ (summer), あき (autumn), ふゆ (winter). なつは あついです = Summer is hot."
+  },
+  {
+   "heading": "〜ね for shared feeling",
+   "body": "End with ね to invite agreement: いい てんきですね = Nice weather, isn't it? It's friendly and very common."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "きょうは あめです。",
+   "romaji": "kyou wa ame desu",
+   "en": "It's raining today."
+  },
+  {
+   "ja": "なつは とても あついです。",
+   "romaji": "natsu wa totemo atsui desu",
+   "en": "Summer is very hot."
+  },
+  {
+   "ja": "はるは あたたかいですね。",
+   "romaji": "haru wa atatakai desu ne",
+   "en": "Spring is warm, isn't it."
+  },
+  {
+   "ja": "ふゆは ゆきが ふります。",
+   "romaji": "fuyu wa yuki ga furimasu",
+   "en": "In winter it snows."
+  }
+ ],
+ "grammar_note": {
+  "title": "Weather + ね",
+  "body": "Weather nouns + です describe conditions. とても = very. ね seeks agreement and softens the statement."
+ },
+ "culture_note": "Cherry blossoms (さくら) in spring are a national event — people picnic under the trees (おはなみ). Each season has its own foods, festivals, and greetings.",
+ "vocab": [
+  {
+   "ja": "天気",
+   "reading": "てんき",
+   "romaji": "tenki",
+   "en": "weather",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "雨",
+   "reading": "あめ",
+   "romaji": "ame",
+   "en": "rain",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "雪",
+   "reading": "ゆき",
+   "romaji": "yuki",
+   "en": "snow",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "晴れ",
+   "reading": "はれ",
+   "romaji": "hare",
+   "en": "clear / sunny",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "春",
+   "reading": "はる",
+   "romaji": "haru",
+   "en": "spring",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "夏",
+   "reading": "なつ",
+   "romaji": "natsu",
+   "en": "summer",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "秋",
+   "reading": "あき",
+   "romaji": "aki",
+   "en": "autumn",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "冬",
+   "reading": "ふゆ",
+   "romaji": "fuyu",
+   "en": "winter",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "暖かい",
+   "reading": "あたたかい",
+   "romaji": "atatakai",
+   "en": "warm",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "涼しい",
+   "reading": "すずしい",
+   "romaji": "suzushii",
+   "en": "cool",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does てんき mean?",
+   "options": [
+    "warm",
+    "summer",
+    "weather",
+    "clear / sunny"
+   ],
+   "answer": "weather",
+   "tts": "てんき",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “rain”?",
+   "options": [
+    "すずしい",
+    "はる",
+    "あき",
+    "あめ"
+   ],
+   "answer": "あめ",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "てんき",
+     "weather"
+    ],
+    [
+     "あめ",
+     "rain"
+    ],
+    [
+     "ゆき",
+     "snow"
+    ],
+    [
+     "はれ",
+     "clear / sunny"
+    ],
+    [
+     "はる",
+     "spring"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "weather",
+   "answers": [
+    "てんき",
+    "tenki"
+   ],
+   "hint": "romaji: tenki"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "きょうは はれです。",
+   "answers": [
+    "it is sunny today."
+   ],
+   "hint": "kyou wa hare desu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "はれ",
+   "lang": "ja",
+   "answers": [
+    "はれ",
+    "hare"
+   ],
+   "hint": "clear / sunny"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "いいてんきですね。",
+   "lang": "ja",
+   "answers": [
+    "いいてんきですね。",
+    "ii tenki desu ne"
+   ],
+   "hint": "Nice weather, isn't it."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "きょうは ___。",
+   "options": [
+    "雪",
+    "はれです",
+    "雨"
+   ],
+   "answer": "はれです",
+   "translation": "It is sunny today."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "Summer is hot.",
+   "tokens": [
+    "なつは",
+    "あついです",
+    "。"
+   ],
+   "answer": "なつはあついです。",
+   "distractors": [
+    "天気",
+    "秋"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "きょうははれです。",
+   "lang": "ja",
+   "romaji": "kyou wa hare desu",
+   "meaning": "It is sunny today."
+  },
+  {
+   "type": "speak_translate",
+   "text": "Nice weather, isn't it.",
+   "target": "いいてんきですね。",
+   "accept": [
+    "いいてんきですね。"
+   ],
+   "romaji": "ii tenki desu ne"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "いい ___。",
+   "options": [
+    "てんきですね",
+    "天気",
+    "冬"
+   ],
+   "answer": "てんきですね",
+   "translation": "Nice weather, isn't it."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "cool",
+   "answers": [
+    "すずしい",
+    "suzushii"
+   ],
+   "hint": "romaji: suzushii"
+  }
+ ]
+}

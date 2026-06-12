@@ -1,0 +1,291 @@
+{
+ "id": "body_health",
+ "order": 20,
+ "title": "Body & Health",
+ "icon": "🩺",
+ "level": "N5",
+ "difficulty": 3,
+ "description": "Body parts, feeling unwell, and visiting a clinic.",
+ "objectives": [
+  "Name common body parts",
+  "Say 〜が いたいです (~ hurts)",
+  "Basic clinic/pharmacy phrases"
+ ],
+ "study_guide": [
+  {
+   "heading": "〜が いたいです",
+   "body": "The hurting part takes が: あたまが いたいです = I have a headache. おなかが いたいです = my stomach hurts."
+  },
+  {
+   "heading": "Feeling unwell",
+   "body": "きぶんが わるいです = I feel sick. ねつが あります = I have a fever. かぜを ひきました = I caught a cold."
+  },
+  {
+   "heading": "At the clinic",
+   "body": "びょういん = hospital/clinic, くすり = medicine, いしゃ = doctor. だいじょうぶですか = Are you OK?"
+  }
+ ],
+ "examples": [
+  {
+   "ja": "あたまが いたいです。",
+   "romaji": "atama ga itai desu",
+   "en": "I have a headache."
+  },
+  {
+   "ja": "ねつが あります。",
+   "romaji": "netsu ga arimasu",
+   "en": "I have a fever."
+  },
+  {
+   "ja": "くすりを のんでください。",
+   "romaji": "kusuri o nonde kudasai",
+   "en": "Please take the medicine."
+  },
+  {
+   "ja": "だいじょうぶですか。",
+   "romaji": "daijoubu desu ka",
+   "en": "Are you all right?"
+  }
+ ],
+ "grammar_note": {
+  "title": "〜が いたい / 〜が あります",
+  "body": "Body part + が + いたいです expresses pain. Symptoms like ねつ/かぜ use あります / ひきます."
+ },
+ "culture_note": "At a Japanese pharmacy (やっきょく) you can get help for minor issues. Masks are worn widely when sick — out of consideration for others, not just self-protection.",
+ "vocab": [
+  {
+   "ja": "頭",
+   "reading": "あたま",
+   "romaji": "atama",
+   "en": "head",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "お腹",
+   "reading": "おなか",
+   "romaji": "onaka",
+   "en": "stomach / belly",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "目",
+   "reading": "め",
+   "romaji": "me",
+   "en": "eye",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "手",
+   "reading": "て",
+   "romaji": "te",
+   "en": "hand",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "足",
+   "reading": "あし",
+   "romaji": "ashi",
+   "en": "leg / foot",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "痛い",
+   "reading": "いたい",
+   "romaji": "itai",
+   "en": "painful / hurts",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "熱",
+   "reading": "ねつ",
+   "romaji": "netsu",
+   "en": "fever",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "薬",
+   "reading": "くすり",
+   "romaji": "kusuri",
+   "en": "medicine",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "病院",
+   "reading": "びょういん",
+   "romaji": "byouin",
+   "en": "hospital / clinic",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "大丈夫",
+   "reading": "だいじょうぶ",
+   "romaji": "daijoubu",
+   "en": "okay / all right",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does あたま mean?",
+   "options": [
+    "fever",
+    "okay / all right",
+    "leg / foot",
+    "head"
+   ],
+   "answer": "head",
+   "tts": "あたま",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “stomach / belly”?",
+   "options": [
+    "あたま",
+    "おなか",
+    "くすり",
+    "いたい"
+   ],
+   "answer": "おなか",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "あたま",
+     "head"
+    ],
+    [
+     "おなか",
+     "stomach / belly"
+    ],
+    [
+     "め",
+     "eye"
+    ],
+    [
+     "て",
+     "hand"
+    ],
+    [
+     "あし",
+     "leg / foot"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "head",
+   "answers": [
+    "あたま",
+    "atama"
+   ],
+   "hint": "romaji: atama"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "あたまが いたいです。",
+   "answers": [
+    "i have a headache."
+   ],
+   "hint": "atama ga itai desu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "て",
+   "lang": "ja",
+   "answers": [
+    "て",
+    "te"
+   ],
+   "hint": "hand"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "だいじょうぶですか。",
+   "lang": "ja",
+   "answers": [
+    "だいじょうぶですか。",
+    "daijoubu desu ka"
+   ],
+   "hint": "Are you okay?"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "あたまが ___。",
+   "options": [
+    "痛い",
+    "手",
+    "いたいです"
+   ],
+   "answer": "いたいです",
+   "translation": "I have a headache."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "I have a fever.",
+   "tokens": [
+    "ねつが",
+    "あります",
+    "。"
+   ],
+   "answer": "ねつがあります。",
+   "distractors": [
+    "大丈夫",
+    "足"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "あたまがいたいです。",
+   "lang": "ja",
+   "romaji": "atama ga itai desu",
+   "meaning": "I have a headache."
+  },
+  {
+   "type": "speak_translate",
+   "text": "Are you okay?",
+   "target": "だいじょうぶですか。",
+   "accept": [
+    "だいじょうぶですか。"
+   ],
+   "romaji": "daijoubu desu ka"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "___。",
+   "options": [
+    "だいじょうぶですか",
+    "大丈夫",
+    "頭"
+   ],
+   "answer": "だいじょうぶですか",
+   "translation": "Are you okay?"
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "okay / all right",
+   "answers": [
+    "だいじょうぶ",
+    "daijoubu"
+   ],
+   "hint": "romaji: daijoubu"
+  }
+ ]
+}

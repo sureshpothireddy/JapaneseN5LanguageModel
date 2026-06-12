@@ -1,0 +1,291 @@
+{
+ "id": "adjectives_i",
+ "order": 11,
+ "title": "い-Adjectives",
+ "icon": "🌶️",
+ "level": "N5",
+ "difficulty": 2,
+ "description": "Describe things: big, small, hot, delicious — with い-adjectives.",
+ "objectives": [
+  "Use い-adjectives before nouns and with です",
+  "Negate い-adjectives (〜くない)",
+  "Combine adjective + noun"
+ ],
+ "study_guide": [
+  {
+   "heading": "い-adjectives end in い",
+   "body": "おおきい (big), ちいさい (small), あつい (hot), さむい (cold), たかい (expensive/tall). Put them straight before a noun: おおきい いえ = a big house."
+  },
+  {
+   "heading": "With です",
+   "body": "このいえは おおきいです = This house is big. Keep the い; just add です for politeness. Don't add な."
+  },
+  {
+   "heading": "Negative: 〜くない",
+   "body": "Drop い, add くない: たかい → たかくない (not expensive). Polite: たかくないです or たかく ありません."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "このカメラは たかいです。",
+   "romaji": "kono kamera wa takai desu",
+   "en": "This camera is expensive."
+  },
+  {
+   "ja": "あたらしい くるまですね。",
+   "romaji": "atarashii kuruma desu ne",
+   "en": "That's a new car, isn't it."
+  },
+  {
+   "ja": "きょうは さむくないです。",
+   "romaji": "kyou wa samukunai desu",
+   "en": "Today isn't cold."
+  },
+  {
+   "ja": "おおきい いぬが すきです。",
+   "romaji": "ookii inu ga suki desu",
+   "en": "I like big dogs."
+  }
+ ],
+ "grammar_note": {
+  "title": "い-adjective conjugation",
+  "body": "Attributive: adj + noun. Predicate: adj + です. Negative: drop い + くないです. Past comes later (〜かったです)."
+ },
+ "culture_note": "かわいい (cute) is one of the most-used words in Japan, applied to everything from babies to bullet trains. Don't be surprised how often you hear it.",
+ "vocab": [
+  {
+   "ja": "大きい",
+   "reading": "おおきい",
+   "romaji": "ookii",
+   "en": "big",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "小さい",
+   "reading": "ちいさい",
+   "romaji": "chiisai",
+   "en": "small",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "暑い",
+   "reading": "あつい",
+   "romaji": "atsui",
+   "en": "hot (weather)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "寒い",
+   "reading": "さむい",
+   "romaji": "samui",
+   "en": "cold (weather)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "高い",
+   "reading": "たかい",
+   "romaji": "takai",
+   "en": "expensive / tall",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "安い",
+   "reading": "やすい",
+   "romaji": "yasui",
+   "en": "cheap",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "新しい",
+   "reading": "あたらしい",
+   "romaji": "atarashii",
+   "en": "new",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "古い",
+   "reading": "ふるい",
+   "romaji": "furui",
+   "en": "old",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "面白い",
+   "reading": "おもしろい",
+   "romaji": "omoshiroi",
+   "en": "interesting / fun",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "可愛い",
+   "reading": "かわいい",
+   "romaji": "kawaii",
+   "en": "cute",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does おおきい mean?",
+   "options": [
+    "cheap",
+    "cute",
+    "big",
+    "hot (weather)"
+   ],
+   "answer": "big",
+   "tts": "おおきい",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “small”?",
+   "options": [
+    "ふるい",
+    "あつい",
+    "ちいさい",
+    "おおきい"
+   ],
+   "answer": "ちいさい",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "おおきい",
+     "big"
+    ],
+    [
+     "ちいさい",
+     "small"
+    ],
+    [
+     "あつい",
+     "hot (weather)"
+    ],
+    [
+     "さむい",
+     "cold (weather)"
+    ],
+    [
+     "たかい",
+     "expensive / tall"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "big",
+   "answers": [
+    "おおきい",
+    "ookii"
+   ],
+   "hint": "romaji: ookii"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "このいえは おおきいです。",
+   "answers": [
+    "this house is big."
+   ],
+   "hint": "kono ie wa ookii desu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "さむい",
+   "lang": "ja",
+   "answers": [
+    "さむい",
+    "samui"
+   ],
+   "hint": "cold (weather)"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "やすいみせですね。",
+   "lang": "ja",
+   "answers": [
+    "やすいみせですね。",
+    "yasui mise desu ne"
+   ],
+   "hint": "It's a cheap shop, isn't it."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "このいえは ___。",
+   "options": [
+    "小さい",
+    "おおきいです",
+    "新しい"
+   ],
+   "answer": "おおきいです",
+   "translation": "This house is big."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "Today is cold.",
+   "tokens": [
+    "きょうは",
+    "さむいです",
+    "。"
+   ],
+   "answer": "きょうはさむいです。",
+   "distractors": [
+    "新しい",
+    "安い"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "このいえはおおきいです。",
+   "lang": "ja",
+   "romaji": "kono ie wa ookii desu",
+   "meaning": "This house is big."
+  },
+  {
+   "type": "speak_translate",
+   "text": "It's a cheap shop, isn't it.",
+   "target": "やすいみせですね。",
+   "accept": [
+    "やすいみせですね。"
+   ],
+   "romaji": "yasui mise desu ne"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "やすい ___。",
+   "options": [
+    "新しい",
+    "大きい",
+    "みせですね"
+   ],
+   "answer": "みせですね",
+   "translation": "It's a cheap shop, isn't it."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "cute",
+   "answers": [
+    "かわいい",
+    "kawaii"
+   ],
+   "hint": "romaji: kawaii"
+  }
+ ]
+}

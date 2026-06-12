@@ -1,0 +1,285 @@
+{
+ "id": "greetings",
+ "order": 1,
+ "title": "Greetings",
+ "icon": "👋",
+ "level": "N5",
+ "difficulty": 1,
+ "description": "Say hello, goodbye and thank you like a local.",
+ "grammar_note": {
+  "title": "Politeness levels",
+  "body": "Japanese greetings change with formality. ありがとう (arigatou) is casual; ありがとうございます (arigatou gozaimasu) is polite. With strangers, teachers, or at work, always prefer the longer polite forms. おはよう → おはようございます works the same way."
+ },
+ "culture_note": "Bowing (おじぎ) accompanies most greetings in Japan. A small nod works between friends; a deeper bow (about 30°) shows respect to elders, customers, or teachers. Handshakes are rare — when in doubt, bow!",
+ "vocab": [
+  {
+   "ja": "こんにちは",
+   "reading": "こんにちは",
+   "romaji": "konnichiwa",
+   "en": "hello / good afternoon",
+   "example_ja": "こんにちは、たなかさん。",
+   "example_en": "Hello, Mr. Tanaka."
+  },
+  {
+   "ja": "おはようございます",
+   "reading": "おはようございます",
+   "romaji": "ohayou gozaimasu",
+   "en": "good morning (polite)",
+   "example_ja": "せんせい、おはようございます。",
+   "example_en": "Good morning, teacher."
+  },
+  {
+   "ja": "こんばんは",
+   "reading": "こんばんは",
+   "romaji": "konbanwa",
+   "en": "good evening",
+   "example_ja": "こんばんは、おげんきですか。",
+   "example_en": "Good evening, how are you?"
+  },
+  {
+   "ja": "さようなら",
+   "reading": "さようなら",
+   "romaji": "sayounara",
+   "en": "goodbye",
+   "example_ja": "さようなら、また あした。",
+   "example_en": "Goodbye, see you tomorrow."
+  },
+  {
+   "ja": "ありがとうございます",
+   "reading": "ありがとうございます",
+   "romaji": "arigatou gozaimasu",
+   "en": "thank you (polite)",
+   "example_ja": "てつだってくれて、ありがとうございます。",
+   "example_en": "Thank you for helping me."
+  },
+  {
+   "ja": "すみません",
+   "reading": "すみません",
+   "romaji": "sumimasen",
+   "en": "excuse me / sorry",
+   "example_ja": "すみません、えきは どこですか。",
+   "example_en": "Excuse me, where is the station?"
+  },
+  {
+   "ja": "はじめまして",
+   "reading": "はじめまして",
+   "romaji": "hajimemashite",
+   "en": "nice to meet you",
+   "example_ja": "はじめまして、リサです。",
+   "example_en": "Nice to meet you, I'm Lisa."
+  },
+  {
+   "ja": "おやすみなさい",
+   "reading": "おやすみなさい",
+   "romaji": "oyasuminasai",
+   "en": "good night",
+   "example_ja": "おやすみなさい、いい ゆめを。",
+   "example_en": "Good night, sweet dreams."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does こんにちは mean?",
+   "options": [
+    "Hello / good afternoon",
+    "Good night",
+    "Thank you",
+    "Goodbye"
+   ],
+   "answer": "Hello / good afternoon",
+   "tts": "こんにちは",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "How do you say “good morning” politely?",
+   "options": [
+    "おはようございます",
+    "こんばんは",
+    "さようなら",
+    "すみません"
+   ],
+   "answer": "おはようございます",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the greetings",
+   "pairs": [
+    [
+     "こんにちは",
+     "hello"
+    ],
+    [
+     "さようなら",
+     "goodbye"
+    ],
+    [
+     "ありがとう",
+     "thank you"
+    ],
+    [
+     "すみません",
+     "excuse me"
+    ],
+    [
+     "こんばんは",
+     "good evening"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "Good morning",
+   "answers": [
+    "おはようございます",
+    "おはよう"
+   ],
+   "hint": "Polite form ends in ございます"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "はじめまして",
+   "answers": [
+    "nice to meet you",
+    "pleased to meet you",
+    "how do you do"
+   ],
+   "hint": "Said when meeting someone for the first time"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "こんばんは",
+   "lang": "ja",
+   "answers": [
+    "こんばんは",
+    "konbanwa"
+   ],
+   "hint": "An evening greeting"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "ありがとうございます",
+   "lang": "ja",
+   "answers": [
+    "ありがとうございます",
+    "arigatou gozaimasu",
+    "arigato gozaimasu"
+   ],
+   "hint": "You say this when someone helps you"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "せんせい、___ございます。",
+   "options": [
+    "おはよう",
+    "こんにちは",
+    "さようなら",
+    "おやすみ"
+   ],
+   "answer": "おはよう",
+   "translation": "Good morning, teacher."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "Nice to meet you, I am Lisa.",
+   "tokens": [
+    "はじめまして",
+    "、",
+    "リサ",
+    "です",
+    "。"
+   ],
+   "answer": "はじめまして、リサです。",
+   "distractors": [
+    "さようなら"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "おはようございます",
+   "lang": "ja",
+   "romaji": "ohayou gozaimasu",
+   "meaning": "good morning (polite)"
+  },
+  {
+   "type": "speak_translate",
+   "text": "Thank you",
+   "target": "ありがとうございます",
+   "accept": [
+    "ありがとうございます",
+    "ありがとう"
+   ],
+   "romaji": "arigatou gozaimasu"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "おやすみなさい",
+   "answers": [
+    "good night",
+    "goodnight"
+   ],
+   "hint": "Said before going to bed"
+  },
+  {
+   "type": "sentence_build",
+   "translation": "Excuse me, goodbye.",
+   "tokens": [
+    "すみません",
+    "、",
+    "さようなら",
+    "。"
+   ],
+   "answer": "すみません、さようなら。",
+   "distractors": [
+    "ありがとう",
+    "はい"
+   ]
+  }
+ ],
+ "objectives": [
+  "Greet people at any time of day",
+  "Say thank you and sorry politely",
+  "Introduce yourself with はじめまして"
+ ],
+ "study_guide": [
+  {
+   "heading": "Greetings change with the clock",
+   "body": "おはようございます (morning), こんにちは (daytime), こんばんは (evening). The polite morning greeting keeps ございます; dropping it (おはよう) is casual, for friends."
+  },
+  {
+   "heading": "Politeness is built in",
+   "body": "ありがとう becomes ありがとうございます when polite. すみません means both 'excuse me' and 'sorry' — one of the most useful words in Japanese."
+  },
+  {
+   "heading": "Meeting someone new",
+   "body": "はじめまして = nice to meet you (literally 'for the first time'). Follow with your name + です and どうぞ よろしく."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "せんせい、おはようございます。",
+   "romaji": "sensei, ohayou gozaimasu",
+   "en": "Good morning, teacher."
+  },
+  {
+   "ja": "こんにちは、おげんきですか。",
+   "romaji": "konnichiwa, o-genki desu ka",
+   "en": "Hello, how are you?"
+  },
+  {
+   "ja": "はじめまして、リサです。",
+   "romaji": "hajimemashite, risa desu",
+   "en": "Nice to meet you, I'm Lisa."
+  },
+  {
+   "ja": "てつだってくれて、ありがとうございます。",
+   "romaji": "tetsudatte kurete, arigatou gozaimasu",
+   "en": "Thank you for helping."
+  }
+ ]
+}

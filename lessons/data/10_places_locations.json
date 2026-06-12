@@ -1,0 +1,292 @@
+{
+ "id": "places_locations",
+ "order": 10,
+ "title": "Places & Locations",
+ "icon": "🗺️",
+ "level": "N5",
+ "difficulty": 2,
+ "description": "Say where things are with あります／います and location words.",
+ "objectives": [
+  "Use あります (things) vs います (living)",
+  "Place words: うえ, した, なか, となり",
+  "Ask どこに ありますか"
+ ],
+ "study_guide": [
+  {
+   "heading": "あります vs います",
+   "body": "あります = exists (for things/plants). います = exists (for people/animals). ねこが います = there is a cat. ほんが あります = there is a book."
+  },
+  {
+   "heading": "Location with に",
+   "body": "Use に to mark where: つくえの うえに ほんが あります = on the desk there is a book. Position words: うえ(on), した(under), なか(inside), となり(next to), まえ(front), うしろ(behind)."
+  },
+  {
+   "heading": "Asking where",
+   "body": "〜は どこに ありますか / いますか = where is ~? えきは どこに ありますか = Where is the station?"
+  }
+ ],
+ "examples": [
+  {
+   "ja": "つくえの うえに ペンが あります。",
+   "romaji": "tsukue no ue ni pen ga arimasu",
+   "en": "There's a pen on the desk."
+  },
+  {
+   "ja": "いえの なかに ねこが います。",
+   "romaji": "ie no naka ni neko ga imasu",
+   "en": "There's a cat inside the house."
+  },
+  {
+   "ja": "ぎんこうは どこに ありますか。",
+   "romaji": "ginkou wa doko ni arimasu ka",
+   "en": "Where is the bank?"
+  },
+  {
+   "ja": "えきの となりに あります。",
+   "romaji": "eki no tonari ni arimasu",
+   "en": "It's next to the station."
+  }
+ ],
+ "grammar_note": {
+  "title": "あります・います + に",
+  "body": "あります for inanimate, います for animate. Location marked by に. Existence subject marked by が."
+ },
+ "culture_note": "Convenience stores (コンビニ) are everywhere in Japan and a traveler's best friend — open 24/7 for food, ATMs, tickets, and clean restrooms.",
+ "vocab": [
+  {
+   "ja": "あります",
+   "reading": "あります",
+   "romaji": "arimasu",
+   "en": "to exist (things)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "います",
+   "reading": "います",
+   "romaji": "imasu",
+   "en": "to exist (living)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "上",
+   "reading": "うえ",
+   "romaji": "ue",
+   "en": "on / above",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "下",
+   "reading": "した",
+   "romaji": "shita",
+   "en": "under / below",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "中",
+   "reading": "なか",
+   "romaji": "naka",
+   "en": "inside",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "隣",
+   "reading": "となり",
+   "romaji": "tonari",
+   "en": "next to",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "銀行",
+   "reading": "ぎんこう",
+   "romaji": "ginkou",
+   "en": "bank",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "家",
+   "reading": "いえ",
+   "romaji": "ie",
+   "en": "house / home",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "机",
+   "reading": "つくえ",
+   "romaji": "tsukue",
+   "en": "desk",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "猫",
+   "reading": "ねこ",
+   "romaji": "neko",
+   "en": "cat",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does あります mean?",
+   "options": [
+    "under / below",
+    "on / above",
+    "desk",
+    "to exist (things)"
+   ],
+   "answer": "to exist (things)",
+   "tts": "あります",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “to exist (living)”?",
+   "options": [
+    "います",
+    "となり",
+    "ねこ",
+    "あります"
+   ],
+   "answer": "います",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "あります",
+     "to exist (things)"
+    ],
+    [
+     "います",
+     "to exist (living)"
+    ],
+    [
+     "うえ",
+     "on / above"
+    ],
+    [
+     "した",
+     "under / below"
+    ],
+    [
+     "なか",
+     "inside"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "to exist (things)",
+   "answers": [
+    "あります",
+    "arimasu"
+   ],
+   "hint": "romaji: arimasu"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "つくえの うえに ほんが あります。",
+   "answers": [
+    "there is a book on the desk."
+   ],
+   "hint": "tsukue no ue ni hon ga arimasu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "した",
+   "lang": "ja",
+   "answers": [
+    "した",
+    "shita"
+   ],
+   "hint": "under / below"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "ぎんこうはどこにありますか。",
+   "lang": "ja",
+   "answers": [
+    "ぎんこうはどこにありますか。",
+    "ginkou wa doko ni arimasu ka"
+   ],
+   "hint": "Where is the bank?"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "つくえの うえに ほんが ___。",
+   "options": [
+    "あります",
+    "下",
+    "家"
+   ],
+   "answer": "あります",
+   "translation": "There is a book on the desk."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "There is a cat at home.",
+   "tokens": [
+    "いえに",
+    "ねこが",
+    "います",
+    "。"
+   ],
+   "answer": "いえにねこがいます。",
+   "distractors": [
+    "隣",
+    "あります"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "つくえのうえにほんがあります。",
+   "lang": "ja",
+   "romaji": "tsukue no ue ni hon ga arimasu",
+   "meaning": "There is a book on the desk."
+  },
+  {
+   "type": "speak_translate",
+   "text": "Where is the bank?",
+   "target": "ぎんこうはどこにありますか。",
+   "accept": [
+    "ぎんこうはどこにありますか。"
+   ],
+   "romaji": "ginkou wa doko ni arimasu ka"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "ぎんこうは ___ ありますか。",
+   "options": [
+    "どこに",
+    "隣",
+    "机"
+   ],
+   "answer": "どこに",
+   "translation": "Where is the bank?"
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "cat",
+   "answers": [
+    "ねこ",
+    "neko"
+   ],
+   "hint": "romaji: neko"
+  }
+ ]
+}

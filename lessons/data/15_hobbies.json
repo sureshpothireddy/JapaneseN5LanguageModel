@@ -1,0 +1,291 @@
+{
+ "id": "hobbies",
+ "order": 15,
+ "title": "Hobbies & Likes",
+ "icon": "🎨",
+ "level": "N5",
+ "difficulty": 2,
+ "description": "Say what you like and what you're good at with すき and じょうず.",
+ "objectives": [
+  "Use 〜が すきです (I like ~)",
+  "Use 〜が じょうずです (good at ~)",
+  "Talk about hobbies (しゅみ)"
+ ],
+ "study_guide": [
+  {
+   "heading": "〜が すきです",
+   "body": "The thing you like takes が, not を: おんがくが すきです = I like music. すき is a な-adjective meaning 'liked'."
+  },
+  {
+   "heading": "Degrees of liking",
+   "body": "だいすき = love, すき = like, あまり すきじゃない = don't really like, きらい = dislike. スポーツが だいすきです = I love sports."
+  },
+  {
+   "heading": "じょうず / へた",
+   "body": "じょうず = good at, へた = bad at, both take が: りょうりが じょうずです = good at cooking."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "わたしは えいがが すきです。",
+   "romaji": "watashi wa eiga ga suki desu",
+   "en": "I like movies."
+  },
+  {
+   "ja": "りょうりが じょうずですね。",
+   "romaji": "ryouri ga jouzu desu ne",
+   "en": "You're good at cooking!"
+  },
+  {
+   "ja": "スポーツが だいすきです。",
+   "romaji": "supootsu ga daisuki desu",
+   "en": "I love sports."
+  },
+  {
+   "ja": "しゅみは おんがくです。",
+   "romaji": "shumi wa ongaku desu",
+   "en": "My hobby is music."
+  }
+ ],
+ "grammar_note": {
+  "title": "が with feelings/skill",
+  "body": "すき・きらい・じょうず・へた describe feeling/ability and mark their object with が, not を."
+ },
+ "culture_note": "Asking しゅみは なんですか (what's your hobby?) is a standard friendly ice-breaker, much like 'what do you do for fun?' in English.",
+ "vocab": [
+  {
+   "ja": "趣味",
+   "reading": "しゅみ",
+   "romaji": "shumi",
+   "en": "hobby",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "映画",
+   "reading": "えいが",
+   "romaji": "eiga",
+   "en": "movie",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "音楽",
+   "reading": "おんがく",
+   "romaji": "ongaku",
+   "en": "music",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "スポーツ",
+   "reading": "スポーツ",
+   "romaji": "supootsu",
+   "en": "sport(s)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "料理",
+   "reading": "りょうり",
+   "romaji": "ryouri",
+   "en": "cooking / cuisine",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "旅行",
+   "reading": "りょこう",
+   "romaji": "ryokou",
+   "en": "travel",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "大好き",
+   "reading": "だいすき",
+   "romaji": "daisuki",
+   "en": "love / really like",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "下手",
+   "reading": "へた",
+   "romaji": "heta",
+   "en": "bad at",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "ゲーム",
+   "reading": "ゲーム",
+   "romaji": "geemu",
+   "en": "game",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "読書",
+   "reading": "どくしょ",
+   "romaji": "dokusho",
+   "en": "reading",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does しゅみ mean?",
+   "options": [
+    "music",
+    "hobby",
+    "reading",
+    "movie"
+   ],
+   "answer": "hobby",
+   "tts": "しゅみ",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “movie”?",
+   "options": [
+    "りょうり",
+    "おんがく",
+    "どくしょ",
+    "えいが"
+   ],
+   "answer": "えいが",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "しゅみ",
+     "hobby"
+    ],
+    [
+     "えいが",
+     "movie"
+    ],
+    [
+     "おんがく",
+     "music"
+    ],
+    [
+     "スポーツ",
+     "sport(s)"
+    ],
+    [
+     "りょうり",
+     "cooking / cuisine"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "hobby",
+   "answers": [
+    "しゅみ",
+    "shumi"
+   ],
+   "hint": "romaji: shumi"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "えいがが すきです。",
+   "answers": [
+    "i like movies."
+   ],
+   "hint": "eiga ga suki desu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "スポーツ",
+   "lang": "ja",
+   "answers": [
+    "スポーツ",
+    "supootsu"
+   ],
+   "hint": "sport(s)"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "しゅみはりょこうです。",
+   "lang": "ja",
+   "answers": [
+    "しゅみはりょこうです。",
+    "shumi wa ryokou desu"
+   ],
+   "hint": "My hobby is travel."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "えいがが ___。",
+   "options": [
+    "ゲーム",
+    "趣味",
+    "すきです"
+   ],
+   "answer": "すきです",
+   "translation": "I like movies."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "I'm good at cooking.",
+   "tokens": [
+    "りょうりが",
+    "じょうずです",
+    "。"
+   ],
+   "answer": "りょうりがじょうずです。",
+   "distractors": [
+    "読書",
+    "大好き"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "えいががすきです。",
+   "lang": "ja",
+   "romaji": "eiga ga suki desu",
+   "meaning": "I like movies."
+  },
+  {
+   "type": "speak_translate",
+   "text": "My hobby is travel.",
+   "target": "しゅみはりょこうです。",
+   "accept": [
+    "しゅみはりょこうです。"
+   ],
+   "romaji": "shumi wa ryokou desu"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "しゅみは ___。",
+   "options": [
+    "りょこうです",
+    "旅行",
+    "読書"
+   ],
+   "answer": "りょこうです",
+   "translation": "My hobby is travel."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "reading",
+   "answers": [
+    "どくしょ",
+    "dokusho"
+   ],
+   "hint": "romaji: dokusho"
+  }
+ ]
+}

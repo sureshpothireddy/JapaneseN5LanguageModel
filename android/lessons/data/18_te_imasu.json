@@ -1,0 +1,291 @@
+{
+ "id": "te_imasu",
+ "order": 18,
+ "title": "Now Happening (ています)",
+ "icon": "📲",
+ "level": "N5",
+ "difficulty": 3,
+ "description": "Describe actions in progress and ongoing states with ています.",
+ "objectives": [
+  "Form 〜ています for ongoing actions",
+  "Describe states (married, living in ~)",
+  "Answer なにを していますか"
+ ],
+ "study_guide": [
+  {
+   "heading": "〜ています = -ing",
+   "body": "て-form + います = action in progress: たべています = (I) am eating. いま なにを していますか = What are you doing now?"
+  },
+  {
+   "heading": "Ongoing states",
+   "body": "Some verbs become states: とうきょうに すんでいます = I live in Tokyo. けっこんしています = I'm married. しっています = I know."
+  },
+  {
+   "heading": "Talking about jobs",
+   "body": "ぎんこうで はたらいています = I work at a bank. で marks where an action happens."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "いま ごはんを たべています。",
+   "romaji": "ima gohan o tabete imasu",
+   "en": "I'm eating now."
+  },
+  {
+   "ja": "とうきょうに すんでいます。",
+   "romaji": "toukyou ni sunde imasu",
+   "en": "I live in Tokyo."
+  },
+  {
+   "ja": "かいしゃで はたらいています。",
+   "romaji": "kaisha de hataraite imasu",
+   "en": "I work at a company."
+  },
+  {
+   "ja": "なにを していますか。",
+   "romaji": "nani o shite imasu ka",
+   "en": "What are you doing?"
+  }
+ ],
+ "grammar_note": {
+  "title": "て-form + います",
+  "body": "Expresses ongoing action or resulting state. で marks the place of an action; に marks the place of residence/existence."
+ },
+ "culture_note": "Asking おしごとは？ ('your work?') is normal small talk, but Japanese people often answer modestly. Workplace identity matters socially in Japan.",
+ "vocab": [
+  {
+   "ja": "住みます",
+   "reading": "すみます",
+   "romaji": "sumimasu",
+   "en": "to live / reside",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "働きます",
+   "reading": "はたらきます",
+   "romaji": "hatarakimasu",
+   "en": "to work",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "結婚します",
+   "reading": "けっこんします",
+   "romaji": "kekkon shimasu",
+   "en": "to marry",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "知ります",
+   "reading": "しります",
+   "romaji": "shirimasu",
+   "en": "to know",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "会社",
+   "reading": "かいしゃ",
+   "romaji": "kaisha",
+   "en": "company",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "仕事",
+   "reading": "しごと",
+   "romaji": "shigoto",
+   "en": "job / work",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "作ります",
+   "reading": "つくります",
+   "romaji": "tsukurimasu",
+   "en": "to make",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "遊びます",
+   "reading": "あそびます",
+   "romaji": "asobimasu",
+   "en": "to play / hang out",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "歩きます",
+   "reading": "あるきます",
+   "romaji": "arukimasu",
+   "en": "to walk",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "走ります",
+   "reading": "はしります",
+   "romaji": "hashirimasu",
+   "en": "to run",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does すみます mean?",
+   "options": [
+    "to play / hang out",
+    "to make",
+    "to walk",
+    "to live / reside"
+   ],
+   "answer": "to live / reside",
+   "tts": "すみます",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “to work”?",
+   "options": [
+    "しります",
+    "すみます",
+    "はたらきます",
+    "はしります"
+   ],
+   "answer": "はたらきます",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "すみます",
+     "to live / reside"
+    ],
+    [
+     "はたらきます",
+     "to work"
+    ],
+    [
+     "けっこんします",
+     "to marry"
+    ],
+    [
+     "しります",
+     "to know"
+    ],
+    [
+     "かいしゃ",
+     "company"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "to live / reside",
+   "answers": [
+    "すみます",
+    "sumimasu"
+   ],
+   "hint": "romaji: sumimasu"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "いま たべています。",
+   "answers": [
+    "i am eating now."
+   ],
+   "hint": "ima tabete imasu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "しります",
+   "lang": "ja",
+   "answers": [
+    "しります",
+    "shirimasu"
+   ],
+   "hint": "to know"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "かいしゃではたらいています。",
+   "lang": "ja",
+   "answers": [
+    "かいしゃではたらいています。",
+    "kaisha de hataraite imasu"
+   ],
+   "hint": "I work at a company."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "いま ___。",
+   "options": [
+    "会社",
+    "たべています",
+    "働きます"
+   ],
+   "answer": "たべています",
+   "translation": "I am eating now."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "I live in Tokyo.",
+   "tokens": [
+    "とうきょうに",
+    "すんでいます",
+    "。"
+   ],
+   "answer": "とうきょうにすんでいます。",
+   "distractors": [
+    "結婚します",
+    "遊びます"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "いまたべています。",
+   "lang": "ja",
+   "romaji": "ima tabete imasu",
+   "meaning": "I am eating now."
+  },
+  {
+   "type": "speak_translate",
+   "text": "I work at a company.",
+   "target": "かいしゃではたらいています。",
+   "accept": [
+    "かいしゃではたらいています。"
+   ],
+   "romaji": "kaisha de hataraite imasu"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "かいしゃで ___。",
+   "options": [
+    "結婚します",
+    "作ります",
+    "はたらいています"
+   ],
+   "answer": "はたらいています",
+   "translation": "I work at a company."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "to run",
+   "answers": [
+    "はしります",
+    "hashirimasu"
+   ],
+   "hint": "romaji: hashirimasu"
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+{
+ "id": "shopping",
+ "order": 13,
+ "title": "Shopping",
+ "icon": "🛍️",
+ "level": "N5",
+ "difficulty": 2,
+ "description": "Buy things, ask prices, and use counters in a shop.",
+ "objectives": [
+  "Ask いくらですか and これを ください",
+  "Use 〜を ください to request",
+  "Recognize price/counter words"
+ ],
+ "study_guide": [
+  {
+   "heading": "〜を ください",
+   "body": "これを ください = I'll take this / please give me this. Point + これ/それ + を ください is all you need to shop."
+  },
+  {
+   "heading": "Asking the price",
+   "body": "いくらですか = how much? ぜんぶで いくらですか = how much in total? Numbers + えん = yen: ごひゃくえん = 500 yen."
+  },
+  {
+   "heading": "Counters preview",
+   "body": "Japanese counts objects with counter words: ひとつ, ふたつ, みっつ (1,2,3 generic things). りんごを ふたつ ください = two apples please."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "これを ください。",
+   "romaji": "kore o kudasai",
+   "en": "I'll take this, please."
+  },
+  {
+   "ja": "ぜんぶで いくらですか。",
+   "romaji": "zenbu de ikura desu ka",
+   "en": "How much altogether?"
+  },
+  {
+   "ja": "みずを ふたつ ください。",
+   "romaji": "mizu o futatsu kudasai",
+   "en": "Two waters, please."
+  },
+  {
+   "ja": "カードで おねがいします。",
+   "romaji": "kaado de onegai shimasu",
+   "en": "By card, please."
+  }
+ ],
+ "grammar_note": {
+  "title": "〜を ください / で",
+  "body": "〜を ください requests an item. で marks the means (カードで = by card). Generic counters: ひとつ/ふたつ/みっつ…"
+ },
+ "culture_note": "Cash is still king in many Japanese shops, and you'll often place money on a small tray rather than into the cashier's hand. IC cards (Suica/Pasmo) are the easy modern option.",
+ "vocab": [
+  {
+   "ja": "店",
+   "reading": "みせ",
+   "romaji": "mise",
+   "en": "shop / store",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "買います",
+   "reading": "かいます",
+   "romaji": "kaimasu",
+   "en": "to buy",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "円",
+   "reading": "えん",
+   "romaji": "en",
+   "en": "yen",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "一つ",
+   "reading": "ひとつ",
+   "romaji": "hitotsu",
+   "en": "one (thing)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "二つ",
+   "reading": "ふたつ",
+   "romaji": "futatsu",
+   "en": "two (things)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "三つ",
+   "reading": "みっつ",
+   "romaji": "mittsu",
+   "en": "three (things)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "全部",
+   "reading": "ぜんぶ",
+   "romaji": "zenbu",
+   "en": "all / total",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "カード",
+   "reading": "カード",
+   "romaji": "kaado",
+   "en": "card",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "お金",
+   "reading": "おかね",
+   "romaji": "okane",
+   "en": "money",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "レジ",
+   "reading": "レジ",
+   "romaji": "reji",
+   "en": "cash register",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does みせ mean?",
+   "options": [
+    "three (things)",
+    "to buy",
+    "two (things)",
+    "shop / store"
+   ],
+   "answer": "shop / store",
+   "tts": "みせ",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “to buy”?",
+   "options": [
+    "かいます",
+    "みせ",
+    "ひとつ",
+    "えん"
+   ],
+   "answer": "かいます",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "みせ",
+     "shop / store"
+    ],
+    [
+     "かいます",
+     "to buy"
+    ],
+    [
+     "えん",
+     "yen"
+    ],
+    [
+     "ひとつ",
+     "one (thing)"
+    ],
+    [
+     "ふたつ",
+     "two (things)"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "shop / store",
+   "answers": [
+    "みせ",
+    "mise"
+   ],
+   "hint": "romaji: mise"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "これを ください。",
+   "answers": [
+    "i'll take this."
+   ],
+   "hint": "kore o kudasai"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "ひとつ",
+   "lang": "ja",
+   "answers": [
+    "ひとつ",
+    "hitotsu"
+   ],
+   "hint": "one (thing)"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "りんごをふたつかいます。",
+   "lang": "ja",
+   "answers": [
+    "りんごをふたつかいます。",
+    "ringo o futatsu kaimasu"
+   ],
+   "hint": "I buy two apples."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "これを ___。",
+   "options": [
+    "ください",
+    "お金",
+    "カード"
+   ],
+   "answer": "ください",
+   "translation": "I'll take this."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "How much in total?",
+   "tokens": [
+    "ぜんぶで",
+    "いくらですか",
+    "。"
+   ],
+   "answer": "ぜんぶでいくらですか。",
+   "distractors": [
+    "全部",
+    "買います"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "これをください。",
+   "lang": "ja",
+   "romaji": "kore o kudasai",
+   "meaning": "I'll take this."
+  },
+  {
+   "type": "speak_translate",
+   "text": "I buy two apples.",
+   "target": "りんごをふたつかいます。",
+   "accept": [
+    "りんごをふたつかいます。"
+   ],
+   "romaji": "ringo o futatsu kaimasu"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "りんごを ___ かいます。",
+   "options": [
+    "一つ",
+    "お金",
+    "ふたつ"
+   ],
+   "answer": "ふたつ",
+   "translation": "I buy two apples."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "cash register",
+   "answers": [
+    "レジ",
+    "reji"
+   ],
+   "hint": "romaji: reji"
+  }
+ ]
+}

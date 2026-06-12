@@ -1,0 +1,305 @@
+{
+ "id": "food",
+ "order": 3,
+ "title": "Food & Drink",
+ "icon": "🍣",
+ "level": "N5",
+ "difficulty": 2,
+ "description": "Order food, say what you eat and drink, and use を + ください.",
+ "grammar_note": {
+  "title": "を marks the object, ください asks for it",
+  "body": "The particle を (pronounced 'o') marks what the action happens to: すしを たべます = I eat sushi. To order something, use [noun] を ください ('please give me …'): みずを ください = Water, please. Verbs come last in Japanese sentences."
+ },
+ "culture_note": "Before eating, Japanese people say いただきます (itadakimasu, 'I gratefully receive') and ごちそうさまでした after the meal. Slurping noodles is perfectly polite — it even signals the ramen is delicious!",
+ "vocab": [
+  {
+   "ja": "寿司",
+   "reading": "すし",
+   "romaji": "sushi",
+   "en": "sushi",
+   "example_ja": "すしを たべます。",
+   "example_en": "I eat sushi."
+  },
+  {
+   "ja": "水",
+   "reading": "みず",
+   "romaji": "mizu",
+   "en": "water",
+   "example_ja": "みずを ください。",
+   "example_en": "Water, please."
+  },
+  {
+   "ja": "お茶",
+   "reading": "おちゃ",
+   "romaji": "ocha",
+   "en": "green tea",
+   "example_ja": "おちゃを のみます。",
+   "example_en": "I drink green tea."
+  },
+  {
+   "ja": "ご飯",
+   "reading": "ごはん",
+   "romaji": "gohan",
+   "en": "rice / meal",
+   "example_ja": "あさごはんを たべましたか。",
+   "example_en": "Did you eat breakfast?"
+  },
+  {
+   "ja": "パン",
+   "reading": "パン",
+   "romaji": "pan",
+   "en": "bread",
+   "example_ja": "パンが すきです。",
+   "example_en": "I like bread."
+  },
+  {
+   "ja": "魚",
+   "reading": "さかな",
+   "romaji": "sakana",
+   "en": "fish",
+   "example_ja": "さかなは おいしいです。",
+   "example_en": "Fish is delicious."
+  },
+  {
+   "ja": "肉",
+   "reading": "にく",
+   "romaji": "niku",
+   "en": "meat",
+   "example_ja": "にくを たべません。",
+   "example_en": "I don't eat meat."
+  },
+  {
+   "ja": "おいしい",
+   "reading": "おいしい",
+   "romaji": "oishii",
+   "en": "delicious",
+   "example_ja": "この ラーメンは おいしい！",
+   "example_en": "This ramen is delicious!"
+  },
+  {
+   "ja": "食べます",
+   "reading": "たべます",
+   "romaji": "tabemasu",
+   "en": "to eat",
+   "example_ja": "まいにち ごはんを たべます。",
+   "example_en": "I eat rice every day."
+  },
+  {
+   "ja": "飲みます",
+   "reading": "のみます",
+   "romaji": "nomimasu",
+   "en": "to drink",
+   "example_ja": "コーヒーを のみます。",
+   "example_en": "I drink coffee."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does おいしい mean?",
+   "options": [
+    "delicious",
+    "expensive",
+    "cold",
+    "spicy"
+   ],
+   "answer": "delicious",
+   "tts": "おいしい",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match food words",
+   "pairs": [
+    [
+     "すし",
+     "sushi"
+    ],
+    [
+     "みず",
+     "water"
+    ],
+    [
+     "おちゃ",
+     "green tea"
+    ],
+    [
+     "さかな",
+     "fish"
+    ],
+    [
+     "にく",
+     "meat"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "I eat sushi.",
+   "answers": [
+    "すしをたべます",
+    "すしを食べます",
+    "わたしはすしをたべます"
+   ],
+   "hint": "Use the object particle を before the verb"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "おちゃを のみます。",
+   "answers": [
+    "i drink green tea",
+    "i drink tea"
+   ],
+   "hint": "のみます = to drink"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "みずをください",
+   "lang": "ja",
+   "answers": [
+    "みずをください",
+    "水をください",
+    "mizu o kudasai",
+    "mizu wo kudasai"
+   ],
+   "hint": "Ordering something to drink"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "すし___ たべます。",
+   "options": [
+    "を",
+    "は",
+    "に",
+    "で"
+   ],
+   "answer": "を",
+   "translation": "I eat sushi. (object particle)"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "おちゃを ___ます。",
+   "options": [
+    "のみ",
+    "たべ",
+    "いき",
+    "み"
+   ],
+   "answer": "のみ",
+   "translation": "I drink green tea."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "Water, please.",
+   "tokens": [
+    "みず",
+    "を",
+    "ください",
+    "。"
+   ],
+   "answer": "みずをください。",
+   "distractors": [
+    "たべます"
+   ]
+  },
+  {
+   "type": "sentence_build",
+   "translation": "I eat fish every day.",
+   "tokens": [
+    "まいにち",
+    "さかな",
+    "を",
+    "たべます",
+    "。"
+   ],
+   "answer": "まいにちさかなをたべます。",
+   "distractors": [
+    "のみます",
+    "は"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "いただきます",
+   "lang": "ja",
+   "romaji": "itadakimasu",
+   "meaning": "said before eating — 'I gratefully receive'"
+  },
+  {
+   "type": "speak_translate",
+   "text": "Green tea, please.",
+   "target": "おちゃをください",
+   "accept": [
+    "おちゃをください",
+    "おちゃください"
+   ],
+   "romaji": "ocha o kudasai"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which particle marks the object of a verb?",
+   "options": [
+    "を",
+    "は",
+    "か",
+    "ね"
+   ],
+   "answer": "を",
+   "options_lang": "ja"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "このすしはおいしいです",
+   "lang": "ja",
+   "answers": [
+    "このすしはおいしいです",
+    "この寿司は美味しいです",
+    "kono sushi wa oishii desu"
+   ],
+   "hint": "A compliment to the chef"
+  }
+ ],
+ "objectives": [
+  "Name common foods and drinks",
+  "Order with 〜を ください",
+  "Use the object particle を"
+ ],
+ "study_guide": [
+  {
+   "heading": "を marks what you eat/drink",
+   "body": "を (pronounced 'o') marks the object: すしを たべます = I eat sushi. The verb always comes last."
+  },
+  {
+   "heading": "Ordering food",
+   "body": "[item] を ください = please give me [item]. みずを ください = water please. Polite and perfect for restaurants."
+  },
+  {
+   "heading": "Eat vs drink",
+   "body": "たべます = eat (solids), のみます = drink (liquids). おちゃを のみます = I drink tea."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "すしを たべます。",
+   "romaji": "sushi o tabemasu",
+   "en": "I eat sushi."
+  },
+  {
+   "ja": "みずを ください。",
+   "romaji": "mizu o kudasai",
+   "en": "Water, please."
+  },
+  {
+   "ja": "おちゃを のみます。",
+   "romaji": "ocha o nomimasu",
+   "en": "I drink green tea."
+  },
+  {
+   "ja": "この ラーメンは おいしい！",
+   "romaji": "kono raamen wa oishii",
+   "en": "This ramen is delicious!"
+  }
+ ]
+}

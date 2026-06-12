@@ -1,0 +1,291 @@
+{
+ "id": "te_form",
+ "order": 17,
+ "title": "The て-Form & Requests",
+ "icon": "🔗",
+ "level": "N5",
+ "difficulty": 3,
+ "description": "The versatile て-form: make polite requests and link actions.",
+ "objectives": [
+  "Recognize the て-form of common verbs",
+  "Make requests with 〜てください",
+  "Link actions: 〜て、〜ます"
+ ],
+ "study_guide": [
+  {
+   "heading": "What the て-form does",
+   "body": "The て-form is a connector. It builds requests (〜てください), ongoing actions (〜ています), permission, and links clauses. It's the gateway to intermediate Japanese."
+  },
+  {
+   "heading": "〜てください = please do",
+   "body": "みてください = please look, きいてください = please listen, まってください = please wait. Soft, polite, essential in class and travel."
+  },
+  {
+   "heading": "Linking with て",
+   "body": "おきて、ごはんを たべて、がっこうへ いきます = I get up, eat, and go to school. て chains actions in order."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "ちょっと まってください。",
+   "romaji": "chotto matte kudasai",
+   "en": "Please wait a moment."
+  },
+  {
+   "ja": "ここに なまえを かいてください。",
+   "romaji": "koko ni namae o kaite kudasai",
+   "en": "Please write your name here."
+  },
+  {
+   "ja": "もういちど いってください。",
+   "romaji": "mou ichido itte kudasai",
+   "en": "Please say it once more."
+  },
+  {
+   "ja": "おきて、コーヒーを のみます。",
+   "romaji": "okite, koohii o nomimasu",
+   "en": "I get up and drink coffee."
+  }
+ ],
+ "grammar_note": {
+  "title": "て-form + ください",
+  "body": "て-form + ください = polite request. て also links sequential actions and forms the basis of many grammar patterns to come."
+ },
+ "culture_note": "ちょっと まって ('wait a sec') softened with ください is everywhere. Adding ちょっと (a little) makes requests gentler and more natural.",
+ "vocab": [
+  {
+   "ja": "待ちます",
+   "reading": "まちます",
+   "romaji": "machimasu",
+   "en": "to wait",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "使います",
+   "reading": "つかいます",
+   "romaji": "tsukaimasu",
+   "en": "to use",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "起きます",
+   "reading": "おきます",
+   "romaji": "okimasu",
+   "en": "to wake up",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "寝ます",
+   "reading": "ねます",
+   "romaji": "nemasu",
+   "en": "to sleep",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "言います",
+   "reading": "いいます",
+   "romaji": "iimasu",
+   "en": "to say",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "座ります",
+   "reading": "すわります",
+   "romaji": "suwarimasu",
+   "en": "to sit",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "立ちます",
+   "reading": "たちます",
+   "romaji": "tachimasu",
+   "en": "to stand",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "もう一度",
+   "reading": "もういちど",
+   "romaji": "mou ichido",
+   "en": "once more",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "ちょっと",
+   "reading": "ちょっと",
+   "romaji": "chotto",
+   "en": "a little / a moment",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "ここ",
+   "reading": "ここ",
+   "romaji": "koko",
+   "en": "here",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does まちます mean?",
+   "options": [
+    "to stand",
+    "to use",
+    "to wait",
+    "a little / a moment"
+   ],
+   "answer": "to wait",
+   "tts": "まちます",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “to use”?",
+   "options": [
+    "つかいます",
+    "ねます",
+    "おきます",
+    "いいます"
+   ],
+   "answer": "つかいます",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "まちます",
+     "to wait"
+    ],
+    [
+     "つかいます",
+     "to use"
+    ],
+    [
+     "おきます",
+     "to wake up"
+    ],
+    [
+     "ねます",
+     "to sleep"
+    ],
+    [
+     "いいます",
+     "to say"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "to wait",
+   "answers": [
+    "まちます",
+    "machimasu"
+   ],
+   "hint": "romaji: machimasu"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "ちょっと まってください。",
+   "answers": [
+    "please wait a moment."
+   ],
+   "hint": "chotto matte kudasai"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "ねます",
+   "lang": "ja",
+   "answers": [
+    "ねます",
+    "nemasu"
+   ],
+   "hint": "to sleep"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "もういちどいってください。",
+   "lang": "ja",
+   "answers": [
+    "もういちどいってください。",
+    "mou ichido itte kudasai"
+   ],
+   "hint": "Please say it again."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "ちょっと ___。",
+   "options": [
+    "起きます",
+    "待ちます",
+    "まってください"
+   ],
+   "answer": "まってください",
+   "translation": "Please wait a moment."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "Please write your name.",
+   "tokens": [
+    "なまえを",
+    "かいてください",
+    "。"
+   ],
+   "answer": "なまえをかいてください。",
+   "distractors": [
+    "言います",
+    "座ります"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "ちょっとまってください。",
+   "lang": "ja",
+   "romaji": "chotto matte kudasai",
+   "meaning": "Please wait a moment."
+  },
+  {
+   "type": "speak_translate",
+   "text": "Please say it again.",
+   "target": "もういちどいってください。",
+   "accept": [
+    "もういちどいってください。"
+   ],
+   "romaji": "mou ichido itte kudasai"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "もういちど ___。",
+   "options": [
+    "座ります",
+    "ちょっと",
+    "いってください"
+   ],
+   "answer": "いってください",
+   "translation": "Please say it again."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "here",
+   "answers": [
+    "ここ",
+    "koko"
+   ],
+   "hint": "romaji: koko"
+  }
+ ]
+}

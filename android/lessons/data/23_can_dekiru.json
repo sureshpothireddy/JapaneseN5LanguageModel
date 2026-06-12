@@ -1,0 +1,292 @@
+{
+ "id": "can_dekiru",
+ "order": 23,
+ "title": "Ability (できます)",
+ "icon": "💪",
+ "level": "N5",
+ "difficulty": 3,
+ "description": "Say what you can and can't do with できます and counters of skill.",
+ "objectives": [
+  "Use 〜が できます (can do)",
+  "Say noun + が できます",
+  "Combine with frequency words"
+ ],
+ "study_guide": [
+  {
+   "heading": "〜が できます",
+   "body": "できます = can do / is possible. にほんごが できます = I can speak Japanese. The ability's object takes が."
+  },
+  {
+   "heading": "Activity + が できます",
+   "body": "うんてんが できます = I can drive. りょうりが できます = I can cook. Pair a noun-activity with が できます."
+  },
+  {
+   "heading": "Frequency words",
+   "body": "いつも (always), よく (often), ときどき (sometimes), あまり (not much), ぜんぜん (not at all) add nuance to ability/habit."
+  }
+ ],
+ "examples": [
+  {
+   "ja": "にほんごが すこし できます。",
+   "romaji": "nihongo ga sukoshi dekimasu",
+   "en": "I can speak a little Japanese."
+  },
+  {
+   "ja": "うんてんが できますか。",
+   "romaji": "unten ga dekimasu ka",
+   "en": "Can you drive?"
+  },
+  {
+   "ja": "よく りょうりを します。",
+   "romaji": "yoku ryouri o shimasu",
+   "en": "I often cook."
+  },
+  {
+   "ja": "ぜんぜん およげません。",
+   "romaji": "zenzen oyogemasen",
+   "en": "I can't swim at all."
+  }
+ ],
+ "grammar_note": {
+  "title": "〜が できます + frequency",
+  "body": "Noun + が できます = able to do. Negative できません. Frequency adverbs (いつも/よく/ときどき/あまり/ぜんぜん) modify verbs."
+ },
+ "culture_note": "Modesty is valued: even fluent speakers often say にほんごが すこし できます ('a little'). Downplaying ability is polite, not dishonest.",
+ "vocab": [
+  {
+   "ja": "出来ます",
+   "reading": "できます",
+   "romaji": "dekimasu",
+   "en": "can do / is able",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "運転",
+   "reading": "うんてん",
+   "romaji": "unten",
+   "en": "driving",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "少し",
+   "reading": "すこし",
+   "romaji": "sukoshi",
+   "en": "a little",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "いつも",
+   "reading": "いつも",
+   "romaji": "itsumo",
+   "en": "always",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "よく",
+   "reading": "よく",
+   "romaji": "yoku",
+   "en": "often / well",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "時々",
+   "reading": "ときどき",
+   "romaji": "tokidoki",
+   "en": "sometimes",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "あまり",
+   "reading": "あまり",
+   "romaji": "amari",
+   "en": "not much (+neg)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "全然",
+   "reading": "ぜんぜん",
+   "romaji": "zenzen",
+   "en": "not at all (+neg)",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "泳ぎます",
+   "reading": "およぎます",
+   "romaji": "oyogimasu",
+   "en": "to swim",
+   "example_ja": "",
+   "example_en": ""
+  },
+  {
+   "ja": "歌います",
+   "reading": "うたいます",
+   "romaji": "utaimasu",
+   "en": "to sing",
+   "example_ja": "",
+   "example_en": ""
+  }
+ ],
+ "exercises": [
+  {
+   "type": "multiple_choice",
+   "question": "What does できます mean?",
+   "options": [
+    "not much (+neg)",
+    "not at all (+neg)",
+    "can do / is able",
+    "often / well"
+   ],
+   "answer": "can do / is able",
+   "tts": "できます",
+   "tts_lang": "ja"
+  },
+  {
+   "type": "multiple_choice",
+   "question": "Which word means “driving”?",
+   "options": [
+    "あまり",
+    "およぎます",
+    "うんてん",
+    "よく"
+   ],
+   "answer": "うんてん",
+   "options_lang": "ja"
+  },
+  {
+   "type": "matching",
+   "title": "Match the words",
+   "pairs": [
+    [
+     "できます",
+     "can do / is able"
+    ],
+    [
+     "うんてん",
+     "driving"
+    ],
+    [
+     "すこし",
+     "a little"
+    ],
+    [
+     "いつも",
+     "always"
+    ],
+    [
+     "よく",
+     "often / well"
+    ]
+   ]
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "can do / is able",
+   "answers": [
+    "できます",
+    "dekimasu"
+   ],
+   "hint": "romaji: dekimasu"
+  },
+  {
+   "type": "translate",
+   "direction": "ja_en",
+   "text": "にほんごが できます。",
+   "answers": [
+    "i can speak japanese."
+   ],
+   "hint": "nihongo ga dekimasu"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "いつも",
+   "lang": "ja",
+   "answers": [
+    "いつも",
+    "itsumo"
+   ],
+   "hint": "always"
+  },
+  {
+   "type": "listen_type",
+   "audio_text": "ぜんぜんおよげません。",
+   "lang": "ja",
+   "answers": [
+    "ぜんぜんおよげません。",
+    "zenzen oyogemasen"
+   ],
+   "hint": "I can't swim at all."
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "にほんごが ___。",
+   "options": [
+    "できます",
+    "泳ぎます",
+    "時々"
+   ],
+   "answer": "できます",
+   "translation": "I can speak Japanese."
+  },
+  {
+   "type": "sentence_build",
+   "translation": "I often cook.",
+   "tokens": [
+    "よく",
+    "りょうりを",
+    "します",
+    "。"
+   ],
+   "answer": "よくりょうりをします。",
+   "distractors": [
+    "歌います",
+    "あまり"
+   ]
+  },
+  {
+   "type": "listen_repeat",
+   "audio_text": "にほんごができます。",
+   "lang": "ja",
+   "romaji": "nihongo ga dekimasu",
+   "meaning": "I can speak Japanese."
+  },
+  {
+   "type": "speak_translate",
+   "text": "I can't swim at all.",
+   "target": "ぜんぜんおよげません。",
+   "accept": [
+    "ぜんぜんおよげません。"
+   ],
+   "romaji": "zenzen oyogemasen"
+  },
+  {
+   "type": "fill_blank",
+   "sentence": "ぜんぜん ___。",
+   "options": [
+    "およげません",
+    "よく",
+    "全然"
+   ],
+   "answer": "およげません",
+   "translation": "I can't swim at all."
+  },
+  {
+   "type": "translate",
+   "direction": "en_ja",
+   "text": "to sing",
+   "answers": [
+    "うたいます",
+    "utaimasu"
+   ],
+   "hint": "romaji: utaimasu"
+  }
+ ]
+}
