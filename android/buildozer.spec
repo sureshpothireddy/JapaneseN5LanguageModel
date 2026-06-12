@@ -23,8 +23,7 @@ android.minapi = 24
 android.archs = arm64-v8a,armeabi-v7a
 android.allow_backup = True
 
-# Keep the bundled Japanese font and lesson data
-android.add_assets =
+
 
 [buildozer]
 log_level = 2
